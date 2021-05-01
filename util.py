@@ -10,6 +10,7 @@ def make():
 			'latitude': None, 
 			'longitude': None,
 			'around_stations': [],
+			'version': "1.0.0"
 		}
 	)
 
@@ -31,11 +32,11 @@ def make():
 		docs.append(doc)
 
 	docs_string = json.dumps(docs, indent='\t', ensure_ascii=False)
-	with open("./dataset/capital/capital_stations.json", "w", encoding='UTF-8-sig') as f:
+	with open("./dataset/capitalStations.json", "w", encoding='UTF-8-sig') as f:
 		f.write(docs_string)
 
 def load():
-	with open("./dataset/capital/capital_stations.json", "r", encoding='UTF-8-sig') as f:
+	with open("./dataset/capitalStations.json", "r", encoding='UTF-8-sig') as f:
 		a = json.load(f)
 		print(a[:3])
 
