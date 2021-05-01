@@ -30,13 +30,14 @@ def make():
 		}
 		docs.append(doc)
 
-	with open("./dataset/capital/capital_stations.csv", "w") as f:
-		json.dump(docs, f, indent='\t')
+	docs_string = json.dumps(docs, indent='\t', ensure_ascii=False)
+	with open("./dataset/capital/capital_stations.json", "w", encoding='UTF-8-sig') as f:
+		f.write(docs_string)
 
 def load():
-	with open("./dataset/capital/capital_stations.csv", "r") as f:
+	with open("./dataset/capital/capital_stations.json", "r", encoding='UTF-8-sig') as f:
 		a = json.load(f)
-		print(a)
+		print(a[:3])
 
 make()
 load()

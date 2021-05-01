@@ -1,0 +1,7863 @@
+﻿[
+	{
+		"name": "녹양",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.75938,
+		"longitude": 127.042292,
+		"around_stations": [
+			"가능",
+			"양주"
+		]
+	},
+	{
+		"name": "남영",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.541021,
+		"longitude": 126.9713,
+		"around_stations": [
+			"용산",
+			"서울"
+		]
+	},
+	{
+		"name": "용산",
+		"lines": [
+			"01호선",
+			"경의선"
+		],
+		"latitude": 37.529849,
+		"longitude": 126.964561,
+		"around_stations": [
+			"효창공원앞",
+			"이촌",
+			"노량진",
+			"남영"
+		]
+	},
+	{
+		"name": "노량진",
+		"lines": [
+			"01호선",
+			"09호선"
+		],
+		"latitude": 37.514219,
+		"longitude": 126.942454,
+		"around_stations": [
+			"샛강",
+			"노들",
+			"대방",
+			"용산"
+		]
+	},
+	{
+		"name": "대방",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.513342,
+		"longitude": 126.926382,
+		"around_stations": [
+			"신길",
+			"노량진"
+		]
+	},
+	{
+		"name": "영등포",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.515504,
+		"longitude": 126.907628,
+		"around_stations": [
+			"신도림",
+			"신길"
+		]
+	},
+	{
+		"name": "신도림",
+		"lines": [
+			"01호선",
+			"02호선"
+		],
+		"latitude": 37.508725,
+		"longitude": 126.891295,
+		"around_stations": [
+			"구로",
+			"영등포",
+			"도림천",
+			"문래",
+			"대림"
+		]
+	},
+	{
+		"name": "회기",
+		"lines": [
+			"01호선",
+			"경의선",
+			"경춘선"
+		],
+		"latitude": 37.58946,
+		"longitude": 127.057583,
+		"around_stations": [
+			"청량리",
+			"중랑",
+			"외대앞"
+		]
+	},
+	{
+		"name": "외대앞",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.596073,
+		"longitude": 127.063549,
+		"around_stations": [
+			"회기",
+			"신이문"
+		]
+	},
+	{
+		"name": "신이문",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.601854,
+		"longitude": 127.067325,
+		"around_stations": [
+			"외대앞",
+			"석계"
+		]
+	},
+	{
+		"name": "광운대",
+		"lines": [
+			"01호선",
+			"경춘선"
+		],
+		"latitude": 37.623632,
+		"longitude": 127.061835,
+		"around_stations": [
+			"석계",
+			"월계",
+			"상봉"
+		]
+	},
+	{
+		"name": "월계",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.633212,
+		"longitude": 127.058831,
+		"around_stations": [
+			"광운대",
+			"녹천"
+		]
+	},
+	{
+		"name": "녹천",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.644799,
+		"longitude": 127.051269,
+		"around_stations": [
+			"월계",
+			"창동"
+		]
+	},
+	{
+		"name": "창동",
+		"lines": [
+			"01호선",
+			"04호선"
+		],
+		"latitude": 37.653166,
+		"longitude": 127.047731,
+		"around_stations": [
+			"쌍문",
+			"노원",
+			"방학",
+			"녹천"
+		]
+	},
+	{
+		"name": "신길",
+		"lines": [
+			"01호선",
+			"05호선"
+		],
+		"latitude": 37.517122,
+		"longitude": 126.917169,
+		"around_stations": [
+			"영등포시장",
+			"여의도",
+			"영등포",
+			"대방"
+		]
+	},
+	{
+		"name": "석계",
+		"lines": [
+			"01호선",
+			"06호선"
+		],
+		"latitude": 37.614805,
+		"longitude": 127.065851,
+		"around_stations": [
+			"돌곶이",
+			"태릉입구",
+			"광운대",
+			"신이문"
+		]
+	},
+	{
+		"name": "봉명",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 36.801215,
+		"longitude": 127.135763,
+		"around_stations": [
+			"천안",
+			"쌍용"
+		]
+	},
+	{
+		"name": "쌍용",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 36.793759,
+		"longitude": 127.1214,
+		"around_stations": [
+			"봉명",
+			"아산"
+		]
+	},
+	{
+		"name": "아산",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 36.792053,
+		"longitude": 127.104361,
+		"around_stations": [
+			"쌍용",
+			"배방"
+		]
+	},
+	{
+		"name": "배방",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 36.777629,
+		"longitude": 127.052991,
+		"around_stations": [
+			"아산",
+			"온양온천"
+		]
+	},
+	{
+		"name": "온양온천",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 36.780483,
+		"longitude": 127.003249,
+		"around_stations": [
+			"배방",
+			"신창"
+		]
+	},
+	{
+		"name": "신창",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 36.769502,
+		"longitude": 126.951108,
+		"around_stations": [
+			"온양온천"
+		]
+	},
+	{
+		"name": "구로",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.503039,
+		"longitude": 126.881966,
+		"around_stations": [
+			"구일",
+			"신도림",
+			"가산디지털단지"
+		]
+	},
+	{
+		"name": "가산디지털단지",
+		"lines": [
+			"01호선",
+			"07호선"
+		],
+		"latitude": 37.481072,
+		"longitude": 126.882343,
+		"around_stations": [
+			"철산",
+			"남구로",
+			"구로",
+			"독산"
+		]
+	},
+	{
+		"name": "금천구청",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.455626,
+		"longitude": 126.89398,
+		"around_stations": [
+			"독산",
+			"광명",
+			"석수"
+		]
+	},
+	{
+		"name": "관악",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.419232,
+		"longitude": 126.908706,
+		"around_stations": [
+			"석수",
+			"안양"
+		]
+	},
+	{
+		"name": "안양",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.401592,
+		"longitude": 126.922874,
+		"around_stations": [
+			"관악",
+			"명학"
+		]
+	},
+	{
+		"name": "명학",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.384653,
+		"longitude": 126.935433,
+		"around_stations": [
+			"안양",
+			"금정"
+		]
+	},
+	{
+		"name": "금정",
+		"lines": [
+			"01호선",
+			"04호선"
+		],
+		"latitude": 37.372221,
+		"longitude": 126.943429,
+		"around_stations": [
+			"산본",
+			"범계",
+			"명학",
+			"군포"
+		]
+	},
+	{
+		"name": "의왕",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.320852,
+		"longitude": 126.948217,
+		"around_stations": [
+			"당정",
+			"성균관대"
+		]
+	},
+	{
+		"name": "성균관대",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.300349,
+		"longitude": 126.97075,
+		"around_stations": [
+			"의왕",
+			"화서"
+		]
+	},
+	{
+		"name": "석수",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.435047,
+		"longitude": 126.902295,
+		"around_stations": [
+			"금천구청",
+			"관악"
+		]
+	},
+	{
+		"name": "화서",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.283862,
+		"longitude": 126.989627,
+		"around_stations": [
+			"성균관대",
+			"수원"
+		]
+	},
+	{
+		"name": "수원",
+		"lines": [
+			"01호선",
+			"수인분당선"
+		],
+		"latitude": 37.265974,
+		"longitude": 126.999874,
+		"around_stations": [
+			"고색",
+			"매교",
+			"화서",
+			"세류"
+		]
+	},
+	{
+		"name": "독산",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.466613,
+		"longitude": 126.889249,
+		"around_stations": [
+			"가산디지털단지",
+			"금천구청"
+		]
+	},
+	{
+		"name": "세류",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.245025,
+		"longitude": 127.013222,
+		"around_stations": [
+			"수원",
+			"병점"
+		]
+	},
+	{
+		"name": "병점",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.207503,
+		"longitude": 127.032731,
+		"around_stations": [
+			"세류",
+			"서동탄",
+			"세마"
+		]
+	},
+	{
+		"name": "세마",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.187533,
+		"longitude": 127.04318,
+		"around_stations": [
+			"병점",
+			"오산대"
+		]
+	},
+	{
+		"name": "오산대",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.168953,
+		"longitude": 127.063197,
+		"around_stations": [
+			"세마",
+			"오산"
+		]
+	},
+	{
+		"name": "송탄",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.075696,
+		"longitude": 127.054301,
+		"around_stations": [
+			"진위",
+			"서정리"
+		]
+	},
+	{
+		"name": "서정리",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.056496,
+		"longitude": 127.052819,
+		"around_stations": [
+			"송탄",
+			"지제"
+		]
+	},
+	{
+		"name": "평택",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 36.990726,
+		"longitude": 127.085159,
+		"around_stations": [
+			"지제",
+			"성환"
+		]
+	},
+	{
+		"name": "성환",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 36.916076,
+		"longitude": 127.126964,
+		"around_stations": [
+			"평택",
+			"직산"
+		]
+	},
+	{
+		"name": "직산",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 36.870593,
+		"longitude": 127.143904,
+		"around_stations": [
+			"성환",
+			"두정"
+		]
+	},
+	{
+		"name": "두정",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 36.833705,
+		"longitude": 127.14896,
+		"around_stations": [
+			"직산",
+			"천안"
+		]
+	},
+	{
+		"name": "천안",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 36.810005,
+		"longitude": 127.146826,
+		"around_stations": [
+			"두정",
+			"봉명"
+		]
+	},
+	{
+		"name": "광명",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.416182,
+		"longitude": 126.884466,
+		"around_stations": [
+			"금천구청"
+		]
+	},
+	{
+		"name": "개봉",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.494594,
+		"longitude": 126.85868,
+		"around_stations": [
+			"오류동",
+			"구일"
+		]
+	},
+	{
+		"name": "오류동",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.494526,
+		"longitude": 126.845365,
+		"around_stations": [
+			"온수",
+			"개봉"
+		]
+	},
+	{
+		"name": "역곡",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.485178,
+		"longitude": 126.811502,
+		"around_stations": [
+			"소사",
+			"온수"
+		]
+	},
+	{
+		"name": "군포",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.35356,
+		"longitude": 126.948462,
+		"around_stations": [
+			"금정",
+			"당정"
+		]
+	},
+	{
+		"name": "당정",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.344285,
+		"longitude": 126.948345,
+		"around_stations": [
+			"군포",
+			"의왕"
+		]
+	},
+	{
+		"name": "서동탄",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.195504,
+		"longitude": 127.051672,
+		"around_stations": [
+			"병점"
+		]
+	},
+	{
+		"name": "부천",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.48405,
+		"longitude": 126.782686,
+		"around_stations": [
+			"중동",
+			"소사"
+		]
+	},
+	{
+		"name": "송내",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.4876,
+		"longitude": 126.753664,
+		"around_stations": [
+			"부개",
+			"중동"
+		]
+	},
+	{
+		"name": "부평",
+		"lines": [
+			"01호선",
+			"인천선"
+		],
+		"latitude": 37.489493,
+		"longitude": 126.724805,
+		"around_stations": [
+			"동수",
+			"부평시장",
+			"백운",
+			"부개"
+		]
+	},
+	{
+		"name": "백운",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.483664,
+		"longitude": 126.707704,
+		"around_stations": [
+			"동암",
+			"부평"
+		]
+	},
+	{
+		"name": "주안",
+		"lines": [
+			"01호선",
+			"인천2호선"
+		],
+		"latitude": 37.464941,
+		"longitude": 126.679923,
+		"around_stations": [
+			"주안국가산단",
+			"시민공원",
+			"간석",
+			"도화"
+		]
+	},
+	{
+		"name": "제물포",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.466769,
+		"longitude": 126.656666,
+		"around_stations": [
+			"도원",
+			"도화"
+		]
+	},
+	{
+		"name": "동인천",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.475276,
+		"longitude": 126.632802,
+		"around_stations": [
+			"인천",
+			"도원"
+		]
+	},
+	{
+		"name": "인천",
+		"lines": [
+			"01호선",
+			"수인분당선"
+		],
+		"latitude": 37.476691,
+		"longitude": 126.616936,
+		"around_stations": [
+			"동인천",
+			"신포"
+		]
+	},
+	{
+		"name": "구일",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.496756,
+		"longitude": 126.870793,
+		"around_stations": [
+			"개봉",
+			"구로"
+		]
+	},
+	{
+		"name": "소사",
+		"lines": [
+			"01호선",
+			"서해선"
+		],
+		"latitude": 37.482753,
+		"longitude": 126.79544,
+		"around_stations": [
+			"부천",
+			"역곡",
+			"소새울"
+		]
+	},
+	{
+		"name": "부개",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.488418,
+		"longitude": 126.74109,
+		"around_stations": [
+			"부평",
+			"송내"
+		]
+	},
+	{
+		"name": "간석",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.464737,
+		"longitude": 126.694181,
+		"around_stations": [
+			"주안",
+			"동암"
+		]
+	},
+	{
+		"name": "도원",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.468446,
+		"longitude": 126.642706,
+		"around_stations": [
+			"동인천",
+			"제물포"
+		]
+	},
+	{
+		"name": "온수",
+		"lines": [
+			"01호선",
+			"07호선"
+		],
+		"latitude": 37.492258,
+		"longitude": 126.823388,
+		"around_stations": [
+			"까치울",
+			"천왕",
+			"오류동",
+			"역곡"
+		]
+	},
+	{
+		"name": "중동",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.486562,
+		"longitude": 126.764843,
+		"around_stations": [
+			"송내",
+			"부천"
+		]
+	},
+	{
+		"name": "오산",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.145885,
+		"longitude": 127.06672,
+		"around_stations": [
+			"오산대",
+			"진위"
+		]
+	},
+	{
+		"name": "진위",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.109447,
+		"longitude": 127.062278,
+		"around_stations": [
+			"오산",
+			"송탄"
+		]
+	},
+	{
+		"name": "동암",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.471408,
+		"longitude": 126.702896,
+		"around_stations": [
+			"간석",
+			"백운"
+		]
+	},
+	{
+		"name": "도화",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.46607,
+		"longitude": 126.668672,
+		"around_stations": [
+			"제물포",
+			"주안"
+		]
+	},
+	{
+		"name": "방학",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.667503,
+		"longitude": 127.044273,
+		"around_stations": [
+			"창동",
+			"도봉"
+		]
+	},
+	{
+		"name": "도봉",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.679563,
+		"longitude": 127.045595,
+		"around_stations": [
+			"방학",
+			"도봉산"
+		]
+	},
+	{
+		"name": "도봉산",
+		"lines": [
+			"01호선",
+			"07호선"
+		],
+		"latitude": 37.689313,
+		"longitude": 127.046222,
+		"around_stations": [
+			"수락산",
+			"장암",
+			"망월사",
+			"도봉"
+		]
+	},
+	{
+		"name": "망월사",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.709914,
+		"longitude": 127.047455,
+		"around_stations": [
+			"도봉산",
+			"회룡"
+		]
+	},
+	{
+		"name": "회룡",
+		"lines": [
+			"01호선",
+			"의정부경전철"
+		],
+		"latitude": 37.724846,
+		"longitude": 127.046895,
+		"around_stations": [
+			"발곡",
+			"범골",
+			"의정부",
+			"망월사"
+		]
+	},
+	{
+		"name": "의정부",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.738415,
+		"longitude": 127.045958,
+		"around_stations": [
+			"회룡",
+			"가능"
+		]
+	},
+	{
+		"name": "가능",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.748577,
+		"longitude": 127.044213,
+		"around_stations": [
+			"의정부",
+			"녹양"
+		]
+	},
+	{
+		"name": "양주",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.774381,
+		"longitude": 127.044708,
+		"around_stations": [
+			"녹양",
+			"덕계"
+		]
+	},
+	{
+		"name": "덕계",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.818486,
+		"longitude": 127.056486,
+		"around_stations": [
+			"양주",
+			"덕정"
+		]
+	},
+	{
+		"name": "덕정",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.843188,
+		"longitude": 127.061277,
+		"around_stations": [
+			"덕계",
+			"지행"
+		]
+	},
+	{
+		"name": "지행",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.892334,
+		"longitude": 127.055716,
+		"around_stations": [
+			"덕정",
+			"동두천중앙"
+		]
+	},
+	{
+		"name": "동두천중앙",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.901885,
+		"longitude": 127.056482,
+		"around_stations": [
+			"지행",
+			"보산"
+		]
+	},
+	{
+		"name": "동두천",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.927878,
+		"longitude": 127.05479,
+		"around_stations": [
+			"보산",
+			"소요산"
+		]
+	},
+	{
+		"name": "보산",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.913702,
+		"longitude": 127.057277,
+		"around_stations": [
+			"동두천중앙",
+			"동두천"
+		]
+	},
+	{
+		"name": "종로3가",
+		"lines": [
+			"01호선",
+			"03호선",
+			"05호선"
+		],
+		"latitude": 37.571607,
+		"longitude": 126.991806,
+		"around_stations": [
+			"광화문",
+			"을지로4가",
+			"종각",
+			"종로5가",
+			"안국",
+			"을지로3가"
+		]
+	},
+	{
+		"name": "종로5가",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.570926,
+		"longitude": 127.001849,
+		"around_stations": [
+			"종로3가",
+			"동대문"
+		]
+	},
+	{
+		"name": "동대문",
+		"lines": [
+			"01호선",
+			"04호선"
+		],
+		"latitude": 37.57142,
+		"longitude": 127.009745,
+		"around_stations": [
+			"동대문역사문화공원",
+			"혜화",
+			"종로5가",
+			"동묘앞"
+		]
+	},
+	{
+		"name": "신설동",
+		"lines": [
+			"01호선",
+			"02호선",
+			"우이신설경전철"
+		],
+		"latitude": 37.575297,
+		"longitude": 127.025087,
+		"around_stations": [
+			"동묘앞",
+			"제기동",
+			"용두",
+			"보문"
+		]
+	},
+	{
+		"name": "제기동",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.578103,
+		"longitude": 127.034893,
+		"around_stations": [
+			"신설동",
+			"청량리"
+		]
+	},
+	{
+		"name": "청량리",
+		"lines": [
+			"01호선",
+			"경의선",
+			"경춘선",
+			"수인분당선"
+		],
+		"latitude": 37.580178,
+		"longitude": 127.046835,
+		"around_stations": [
+			"왕십리",
+			"회기",
+			"제기동"
+		]
+	},
+	{
+		"name": "동묘앞",
+		"lines": [
+			"01호선",
+			"06호선"
+		],
+		"latitude": 37.572627,
+		"longitude": 127.016429,
+		"around_stations": [
+			"신당",
+			"창신",
+			"동대문",
+			"신설동"
+		]
+	},
+	{
+		"name": "소요산",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.9481,
+		"longitude": 127.061034,
+		"around_stations": [
+			"동두천"
+		]
+	},
+	{
+		"name": "지제",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.0188,
+		"longitude": 127.070444,
+		"around_stations": [
+			"서정리",
+			"평택"
+		]
+	},
+	{
+		"name": "서울",
+		"lines": [
+			"01호선",
+			"04호선",
+			"경의선",
+			"공항철도"
+		],
+		"latitude": 37.554648,
+		"longitude": 126.972559,
+		"around_stations": [
+			"신촌(경의선)",
+			"시청",
+			"남영",
+			"공덕",
+			"숙대입구",
+			"회현"
+		]
+	},
+	{
+		"name": "시청",
+		"lines": [
+			"01호선",
+			"02호선"
+		],
+		"latitude": 37.564718,
+		"longitude": 126.977108,
+		"around_stations": [
+			"서울",
+			"종각",
+			"충정로",
+			"을지로입구"
+		]
+	},
+	{
+		"name": "종각",
+		"lines": [
+			"01호선"
+		],
+		"latitude": 37.570161,
+		"longitude": 126.982923,
+		"around_stations": [
+			"시청",
+			"종로3가"
+		]
+	},
+	{
+		"name": "강변",
+		"lines": [
+			"02호선"
+		],
+		"latitude": 37.535095,
+		"longitude": 127.094681,
+		"around_stations": [
+			"구의",
+			"잠실나루"
+		]
+	},
+	{
+		"name": "잠실나루",
+		"lines": [
+			"02호선"
+		],
+		"latitude": 37.520733,
+		"longitude": 127.10379,
+		"around_stations": [
+			"강변",
+			"잠실"
+		]
+	},
+	{
+		"name": "잠실",
+		"lines": [
+			"02호선",
+			"08호선"
+		],
+		"latitude": 37.51395,
+		"longitude": 127.102234,
+		"around_stations": [
+			"석촌",
+			"몽촌토성",
+			"잠실나루",
+			"잠실새내"
+		]
+	},
+	{
+		"name": "잠실새내",
+		"lines": [
+			"02호선"
+		],
+		"latitude": 37.511687,
+		"longitude": 127.086162,
+		"around_stations": [
+			"잠실",
+			"종합운동장"
+		]
+	},
+	{
+		"name": "종합운동장",
+		"lines": [
+			"02호선",
+			"09호선"
+		],
+		"latitude": 37.510997,
+		"longitude": 127.073642,
+		"around_stations": [
+			"봉은사",
+			"삼전",
+			"삼성",
+			"잠실새내"
+		]
+	},
+	{
+		"name": "삼성",
+		"lines": [
+			"02호선"
+		],
+		"latitude": 37.508844,
+		"longitude": 127.06316,
+		"around_stations": [
+			"종합운동장",
+			"선릉"
+		]
+	},
+	{
+		"name": "선릉",
+		"lines": [
+			"02호선",
+			"수인분당선"
+		],
+		"latitude": 37.504503,
+		"longitude": 127.049008,
+		"around_stations": [
+			"한티",
+			"선정릉",
+			"역삼",
+			"삼성"
+		]
+	},
+	{
+		"name": "역삼",
+		"lines": [
+			"02호선"
+		],
+		"latitude": 37.500622,
+		"longitude": 127.036456,
+		"around_stations": [
+			"선릉",
+			"강남"
+		]
+	},
+	{
+		"name": "강남",
+		"lines": [
+			"02호선",
+			"신분당선"
+		],
+		"latitude": 37.497175,
+		"longitude": 127.027926,
+		"around_stations": [
+			"양재",
+			"교대",
+			"역삼"
+		]
+	},
+	{
+		"name": "교대",
+		"lines": [
+			"02호선",
+			"03호선"
+		],
+		"latitude": 37.493415,
+		"longitude": 127.01408,
+		"around_stations": [
+			"고속터미널",
+			"남부터미널",
+			"서초",
+			"강남"
+		]
+	},
+	{
+		"name": "방배",
+		"lines": [
+			"02호선"
+		],
+		"latitude": 37.481426,
+		"longitude": 126.997596,
+		"around_stations": [
+			"서초",
+			"사당"
+		]
+	},
+	{
+		"name": "사당",
+		"lines": [
+			"02호선",
+			"04호선"
+		],
+		"latitude": 37.47653,
+		"longitude": 126.981685,
+		"around_stations": [
+			"남태령",
+			"이수(총신대)",
+			"낙성대",
+			"방배"
+		]
+	},
+	{
+		"name": "낙성대",
+		"lines": [
+			"02호선"
+		],
+		"latitude": 37.47693,
+		"longitude": 126.963693,
+		"around_stations": [
+			"사당",
+			"서울대입구"
+		]
+	},
+	{
+		"name": "서울대입구",
+		"lines": [
+			"02호선"
+		],
+		"latitude": 37.481247,
+		"longitude": 126.952739,
+		"around_stations": [
+			"낙성대",
+			"봉천"
+		]
+	},
+	{
+		"name": "봉천",
+		"lines": [
+			"02호선"
+		],
+		"latitude": 37.482362,
+		"longitude": 126.941892,
+		"around_stations": [
+			"서울대입구",
+			"신림"
+		]
+	},
+	{
+		"name": "신림",
+		"lines": [
+			"02호선"
+		],
+		"latitude": 37.484201,
+		"longitude": 126.929715,
+		"around_stations": [
+			"봉천",
+			"신대방"
+		]
+	},
+	{
+		"name": "신대방",
+		"lines": [
+			"02호선"
+		],
+		"latitude": 37.487462,
+		"longitude": 126.913149,
+		"around_stations": [
+			"신림",
+			"구로디지털단지"
+		]
+	},
+	{
+		"name": "구로디지털단지",
+		"lines": [
+			"02호선"
+		],
+		"latitude": 37.485266,
+		"longitude": 126.901401,
+		"around_stations": [
+			"신대방",
+			"대림"
+		]
+	},
+	{
+		"name": "문래",
+		"lines": [
+			"02호선"
+		],
+		"latitude": 37.517933,
+		"longitude": 126.89476,
+		"around_stations": [
+			"신도림",
+			"영등포구청"
+		]
+	},
+	{
+		"name": "영등포구청",
+		"lines": [
+			"02호선",
+			"05호선"
+		],
+		"latitude": 37.52497,
+		"longitude": 126.895951,
+		"around_stations": [
+			"양평",
+			"영등포시장",
+			"당산",
+			"문래"
+		]
+	},
+	{
+		"name": "용답",
+		"lines": [
+			"02호선"
+		],
+		"latitude": 37.561904,
+		"longitude": 127.050899,
+		"around_stations": [
+			"성수",
+			"신답"
+		]
+	},
+	{
+		"name": "신정네거리",
+		"lines": [
+			"02호선"
+		],
+		"latitude": 37.520074,
+		"longitude": 126.852912,
+		"around_stations": [
+			"까치산",
+			"양천구청"
+		]
+	},
+	{
+		"name": "을지로입구",
+		"lines": [
+			"02호선"
+		],
+		"latitude": 37.566014,
+		"longitude": 126.982618,
+		"around_stations": [
+			"시청",
+			"을지로3가"
+		]
+	},
+	{
+		"name": "을지로3가",
+		"lines": [
+			"02호선",
+			"03호선"
+		],
+		"latitude": 37.566295,
+		"longitude": 126.99191,
+		"around_stations": [
+			"종로3가",
+			"충무로",
+			"을지로입구",
+			"을지로4가"
+		]
+	},
+	{
+		"name": "을지로4가",
+		"lines": [
+			"02호선",
+			"05호선"
+		],
+		"latitude": 37.566941,
+		"longitude": 126.998079,
+		"around_stations": [
+			"종로3가",
+			"동대문역사문화공원",
+			"을지로3가"
+		]
+	},
+	{
+		"name": "동대문역사문화공원",
+		"lines": [
+			"02호선",
+			"04호선",
+			"05호선"
+		],
+		"latitude": 37.565138,
+		"longitude": 127.007896,
+		"around_stations": [
+			"을지로4가",
+			"청구",
+			"동대문",
+			"충무로",
+			"신당"
+		]
+	},
+	{
+		"name": "신당",
+		"lines": [
+			"02호선",
+			"06호선"
+		],
+		"latitude": 37.565972,
+		"longitude": 127.01782,
+		"around_stations": [
+			"청구",
+			"동묘앞",
+			"동대문역사문화공원",
+			"상왕십리"
+		]
+	},
+	{
+		"name": "한양대",
+		"lines": [
+			"02호선"
+		],
+		"latitude": 37.555273,
+		"longitude": 127.043655,
+		"around_stations": [
+			"왕십리",
+			"뚝섬"
+		]
+	},
+	{
+		"name": "뚝섬",
+		"lines": [
+			"02호선"
+		],
+		"latitude": 37.547184,
+		"longitude": 127.047367,
+		"around_stations": [
+			"한양대",
+			"성수"
+		]
+	},
+	{
+		"name": "성수",
+		"lines": [
+			"02호선"
+		],
+		"latitude": 37.544581,
+		"longitude": 127.055961,
+		"around_stations": [
+			"뚝섬",
+			"건대입구",
+			"용답"
+		]
+	},
+	{
+		"name": "건대입구",
+		"lines": [
+			"02호선",
+			"07호선"
+		],
+		"latitude": 37.540693,
+		"longitude": 127.07023,
+		"around_stations": [
+			"뚝섬유원지",
+			"어린이대공원",
+			"성수",
+			"구의"
+		]
+	},
+	{
+		"name": "구의",
+		"lines": [
+			"02호선"
+		],
+		"latitude": 37.537077,
+		"longitude": 127.085916,
+		"around_stations": [
+			"건대입구",
+			"강변"
+		]
+	},
+	{
+		"name": "당산",
+		"lines": [
+			"02호선",
+			"09호선"
+		],
+		"latitude": 37.53438,
+		"longitude": 126.902281,
+		"around_stations": [
+			"선유도",
+			"국회의사당",
+			"합정",
+			"영등포구청"
+		]
+	},
+	{
+		"name": "합정",
+		"lines": [
+			"02호선",
+			"06호선"
+		],
+		"latitude": 37.549463,
+		"longitude": 126.913739,
+		"around_stations": [
+			"망원",
+			"상수",
+			"홍대입구",
+			"당산"
+		]
+	},
+	{
+		"name": "홍대입구",
+		"lines": [
+			"02호선",
+			"경의선",
+			"공항철도"
+		],
+		"latitude": 37.557192,
+		"longitude": 126.925381,
+		"around_stations": [
+			"가좌",
+			"디지털미디어시티",
+			"신촌",
+			"합정",
+			"서강대",
+			"공덕"
+		]
+	},
+	{
+		"name": "신촌",
+		"lines": [
+			"02호선"
+		],
+		"latitude": 37.555134,
+		"longitude": 126.936893,
+		"around_stations": [
+			"홍대입구",
+			"이대"
+		]
+	},
+	{
+		"name": "이대",
+		"lines": [
+			"02호선"
+		],
+		"latitude": 37.556733,
+		"longitude": 126.946013,
+		"around_stations": [
+			"신촌",
+			"아현"
+		]
+	},
+	{
+		"name": "아현",
+		"lines": [
+			"02호선"
+		],
+		"latitude": 37.557345,
+		"longitude": 126.956141,
+		"around_stations": [
+			"이대",
+			"충정로"
+		]
+	},
+	{
+		"name": "충정로",
+		"lines": [
+			"02호선",
+			"05호선"
+		],
+		"latitude": 37.559973,
+		"longitude": 126.963672,
+		"around_stations": [
+			"애오개",
+			"서대문",
+			"아현",
+			"시청"
+		]
+	},
+	{
+		"name": "신답",
+		"lines": [
+			"02호선"
+		],
+		"latitude": 37.57004,
+		"longitude": 127.046481,
+		"around_stations": [
+			"용답",
+			"용두"
+		]
+	},
+	{
+		"name": "까치산",
+		"lines": [
+			"02호선",
+			"05호선"
+		],
+		"latitude": 37.531768,
+		"longitude": 126.846683,
+		"around_stations": [
+			"화곡",
+			"신정",
+			"신정네거리"
+		]
+	},
+	{
+		"name": "서초",
+		"lines": [
+			"02호선"
+		],
+		"latitude": 37.491897,
+		"longitude": 127.007917,
+		"around_stations": [
+			"교대",
+			"방배"
+		]
+	},
+	{
+		"name": "왕십리",
+		"lines": [
+			"02호선",
+			"05호선",
+			"경의선",
+			"수인분당선"
+		],
+		"latitude": 37.561533,
+		"longitude": 127.037732,
+		"around_stations": [
+			"서울숲",
+			"청량리",
+			"상왕십리",
+			"한양대",
+			"행당",
+			"마장",
+			"응봉"
+		]
+	},
+	{
+		"name": "상왕십리",
+		"lines": [
+			"02호선"
+		],
+		"latitude": 37.564354,
+		"longitude": 127.029354,
+		"around_stations": [
+			"신당",
+			"왕십리"
+		]
+	},
+	{
+		"name": "대림",
+		"lines": [
+			"02호선",
+			"07호선"
+		],
+		"latitude": 37.49297,
+		"longitude": 126.895801,
+		"around_stations": [
+			"구로디지털단지",
+			"신도림",
+			"남구로",
+			"신풍"
+		]
+	},
+	{
+		"name": "도림천",
+		"lines": [
+			"02호선"
+		],
+		"latitude": 37.514287,
+		"longitude": 126.882768,
+		"around_stations": [
+			"양천구청",
+			"신도림"
+		]
+	},
+	{
+		"name": "양천구청",
+		"lines": [
+			"02호선"
+		],
+		"latitude": 37.512398,
+		"longitude": 126.865819,
+		"around_stations": [
+			"신정네거리",
+			"도림천"
+		]
+	},
+	{
+		"name": "용두",
+		"lines": [
+			"02호선"
+		],
+		"latitude": 37.574028,
+		"longitude": 127.038091,
+		"around_stations": [
+			"신답",
+			"신설동"
+		]
+	},
+	{
+		"name": "양재",
+		"lines": [
+			"03호선",
+			"신분당선"
+		],
+		"latitude": 37.484147,
+		"longitude": 127.034631,
+		"around_stations": [
+			"남부터미널",
+			"매봉",
+			"강남",
+			"양재시민의숲"
+		]
+	},
+	{
+		"name": "매봉",
+		"lines": [
+			"03호선"
+		],
+		"latitude": 37.486947,
+		"longitude": 127.046769,
+		"around_stations": [
+			"양재",
+			"도곡"
+		]
+	},
+	{
+		"name": "도곡",
+		"lines": [
+			"03호선",
+			"수인분당선"
+		],
+		"latitude": 37.490858,
+		"longitude": 127.055381,
+		"around_stations": [
+			"구룡",
+			"한티",
+			"매봉",
+			"대치"
+		]
+	},
+	{
+		"name": "대치",
+		"lines": [
+			"03호선"
+		],
+		"latitude": 37.494612,
+		"longitude": 127.063642,
+		"around_stations": [
+			"도곡",
+			"학여울"
+		]
+	},
+	{
+		"name": "학여울",
+		"lines": [
+			"03호선"
+		],
+		"latitude": 37.496663,
+		"longitude": 127.070594,
+		"around_stations": [
+			"대치",
+			"대청"
+		]
+	},
+	{
+		"name": "대청",
+		"lines": [
+			"03호선"
+		],
+		"latitude": 37.493514,
+		"longitude": 127.079532,
+		"around_stations": [
+			"학여울",
+			"일원"
+		]
+	},
+	{
+		"name": "일원",
+		"lines": [
+			"03호선"
+		],
+		"latitude": 37.483681,
+		"longitude": 127.08439,
+		"around_stations": [
+			"대청",
+			"수서"
+		]
+	},
+	{
+		"name": "수서",
+		"lines": [
+			"03호선",
+			"수인분당선"
+		],
+		"latitude": 37.487371,
+		"longitude": 127.10188,
+		"around_stations": [
+			"복정",
+			"대모산입구",
+			"일원",
+			"가락시장"
+		]
+	},
+	{
+		"name": "동대입구",
+		"lines": [
+			"03호선"
+		],
+		"latitude": 37.559052,
+		"longitude": 127.005602,
+		"around_stations": [
+			"충무로",
+			"약수"
+		]
+	},
+	{
+		"name": "금호",
+		"lines": [
+			"03호선"
+		],
+		"latitude": 37.548034,
+		"longitude": 127.015872,
+		"around_stations": [
+			"약수",
+			"옥수"
+		]
+	},
+	{
+		"name": "옥수",
+		"lines": [
+			"03호선",
+			"경의선"
+		],
+		"latitude": 37.540685,
+		"longitude": 127.017965,
+		"around_stations": [
+			"금호",
+			"압구정",
+			"한남",
+			"응봉"
+		]
+	},
+	{
+		"name": "압구정",
+		"lines": [
+			"03호선"
+		],
+		"latitude": 37.527072,
+		"longitude": 127.028461,
+		"around_stations": [
+			"옥수",
+			"신사"
+		]
+	},
+	{
+		"name": "신사",
+		"lines": [
+			"03호선"
+		],
+		"latitude": 37.516334,
+		"longitude": 127.020114,
+		"around_stations": [
+			"압구정",
+			"잠원"
+		]
+	},
+	{
+		"name": "잠원",
+		"lines": [
+			"03호선"
+		],
+		"latitude": 37.512759,
+		"longitude": 127.01122,
+		"around_stations": [
+			"신사",
+			"고속터미널"
+		]
+	},
+	{
+		"name": "고속터미널",
+		"lines": [
+			"03호선",
+			"07호선",
+			"09호선"
+		],
+		"latitude": 37.50481,
+		"longitude": 127.004943,
+		"around_stations": [
+			"잠원",
+			"교대",
+			"반포",
+			"내방",
+			"신반포",
+			"사평"
+		]
+	},
+	{
+		"name": "남부터미널",
+		"lines": [
+			"03호선"
+		],
+		"latitude": 37.485013,
+		"longitude": 127.016189,
+		"around_stations": [
+			"교대",
+			"양재"
+		]
+	},
+	{
+		"name": "경복궁",
+		"lines": [
+			"03호선"
+		],
+		"latitude": 37.575762,
+		"longitude": 126.97353,
+		"around_stations": [
+			"독립문",
+			"안국"
+		]
+	},
+	{
+		"name": "안국",
+		"lines": [
+			"03호선"
+		],
+		"latitude": 37.576477,
+		"longitude": 126.985443,
+		"around_stations": [
+			"경복궁",
+			"종로3가"
+		]
+	},
+	{
+		"name": "지축",
+		"lines": [
+			"03호선"
+		],
+		"latitude": 37.648048,
+		"longitude": 126.913951,
+		"around_stations": [
+			"삼송",
+			"구파발"
+		]
+	},
+	{
+		"name": "구파발",
+		"lines": [
+			"03호선"
+		],
+		"latitude": 37.636763,
+		"longitude": 126.918821,
+		"around_stations": [
+			"지축",
+			"연신내"
+		]
+	},
+	{
+		"name": "연신내",
+		"lines": [
+			"03호선",
+			"06호선"
+		],
+		"latitude": 37.619001,
+		"longitude": 126.921008,
+		"around_stations": [
+			"구파발",
+			"불광",
+			"독바위",
+			"구산"
+		]
+	},
+	{
+		"name": "불광",
+		"lines": [
+			"03호선",
+			"06호선"
+		],
+		"latitude": 37.610469,
+		"longitude": 126.929887,
+		"around_stations": [
+			"연신내",
+			"녹번",
+			"독바위",
+			"역촌"
+		]
+	},
+	{
+		"name": "녹번",
+		"lines": [
+			"03호선"
+		],
+		"latitude": 37.600927,
+		"longitude": 126.935756,
+		"around_stations": [
+			"불광",
+			"홍제"
+		]
+	},
+	{
+		"name": "홍제",
+		"lines": [
+			"03호선"
+		],
+		"latitude": 37.589066,
+		"longitude": 126.943736,
+		"around_stations": [
+			"녹번",
+			"무악재"
+		]
+	},
+	{
+		"name": "무악재",
+		"lines": [
+			"03호선"
+		],
+		"latitude": 37.582299,
+		"longitude": 126.950291,
+		"around_stations": [
+			"홍제",
+			"독립문"
+		]
+	},
+	{
+		"name": "독립문",
+		"lines": [
+			"03호선"
+		],
+		"latitude": 37.574571,
+		"longitude": 126.957748,
+		"around_stations": [
+			"무악재",
+			"경복궁"
+		]
+	},
+	{
+		"name": "가락시장",
+		"lines": [
+			"03호선",
+			"08호선"
+		],
+		"latitude": 37.492522,
+		"longitude": 127.118234,
+		"around_stations": [
+			"수서",
+			"경찰병원",
+			"송파",
+			"문정"
+		]
+	},
+	{
+		"name": "경찰병원",
+		"lines": [
+			"03호선"
+		],
+		"latitude": 37.495918,
+		"longitude": 127.12454,
+		"around_stations": [
+			"가락시장",
+			"오금"
+		]
+	},
+	{
+		"name": "오금",
+		"lines": [
+			"03호선",
+			"05호선"
+		],
+		"latitude": 37.502162,
+		"longitude": 127.128111,
+		"around_stations": [
+			"방이",
+			"개롱",
+			"경찰병원"
+		]
+	},
+	{
+		"name": "원당",
+		"lines": [
+			"03호선"
+		],
+		"latitude": 37.653324,
+		"longitude": 126.843041,
+		"around_stations": [
+			"화정",
+			"원흥"
+		]
+	},
+	{
+		"name": "대곡",
+		"lines": [
+			"03호선",
+			"경의선"
+		],
+		"latitude": 37.631626,
+		"longitude": 126.811024,
+		"around_stations": [
+			"곡산",
+			"능곡",
+			"백석",
+			"화정"
+		]
+	},
+	{
+		"name": "백석",
+		"lines": [
+			"03호선"
+		],
+		"latitude": 37.643114,
+		"longitude": 126.78787,
+		"around_stations": [
+			"마두",
+			"대곡"
+		]
+	},
+	{
+		"name": "마두",
+		"lines": [
+			"03호선"
+		],
+		"latitude": 37.652206,
+		"longitude": 126.77762,
+		"around_stations": [
+			"정발산",
+			"백석"
+		]
+	},
+	{
+		"name": "정발산",
+		"lines": [
+			"03호선"
+		],
+		"latitude": 37.659477,
+		"longitude": 126.773359,
+		"around_stations": [
+			"주엽",
+			"마두"
+		]
+	},
+	{
+		"name": "주엽",
+		"lines": [
+			"03호선"
+		],
+		"latitude": 37.670072,
+		"longitude": 126.761334,
+		"around_stations": [
+			"대화",
+			"정발산"
+		]
+	},
+	{
+		"name": "대화",
+		"lines": [
+			"03호선"
+		],
+		"latitude": 37.676087,
+		"longitude": 126.747569,
+		"around_stations": [
+			"주엽"
+		]
+	},
+	{
+		"name": "원흥",
+		"lines": [
+			"03호선"
+		],
+		"latitude": 37.650658,
+		"longitude": 126.872642,
+		"around_stations": [
+			"원당",
+			"삼송"
+		]
+	},
+	{
+		"name": "삼송",
+		"lines": [
+			"03호선"
+		],
+		"latitude": 37.653083,
+		"longitude": 126.895558,
+		"around_stations": [
+			"원흥",
+			"지축"
+		]
+	},
+	{
+		"name": "약수",
+		"lines": [
+			"03호선",
+			"06호선"
+		],
+		"latitude": 37.55434,
+		"longitude": 127.010655,
+		"around_stations": [
+			"동대입구",
+			"금호",
+			"버티고개",
+			"청구"
+		]
+	},
+	{
+		"name": "충무로",
+		"lines": [
+			"03호선",
+			"04호선"
+		],
+		"latitude": 37.561243,
+		"longitude": 126.99428,
+		"around_stations": [
+			"을지로3가",
+			"동대입구",
+			"동대문역사문화공원",
+			"명동"
+		]
+	},
+	{
+		"name": "화정",
+		"lines": [
+			"03호선"
+		],
+		"latitude": 37.634592,
+		"longitude": 126.83265,
+		"around_stations": [
+			"대곡",
+			"원당"
+		]
+	},
+	{
+		"name": "남태령",
+		"lines": [
+			"04호선"
+		],
+		"latitude": 37.463873,
+		"longitude": 126.989134,
+		"around_stations": [
+			"선바위",
+			"사당"
+		]
+	},
+	{
+		"name": "당고개",
+		"lines": [
+			"04호선"
+		],
+		"latitude": 37.670272,
+		"longitude": 127.079066,
+		"around_stations": [
+			"상계"
+		]
+	},
+	{
+		"name": "상계",
+		"lines": [
+			"04호선"
+		],
+		"latitude": 37.660878,
+		"longitude": 127.073572,
+		"around_stations": [
+			"노원",
+			"당고개"
+		]
+	},
+	{
+		"name": "노원",
+		"lines": [
+			"04호선",
+			"07호선"
+		],
+		"latitude": 37.655128,
+		"longitude": 127.061368,
+		"around_stations": [
+			"중계",
+			"마들",
+			"창동",
+			"상계"
+		]
+	},
+	{
+		"name": "쌍문",
+		"lines": [
+			"04호선"
+		],
+		"latitude": 37.648627,
+		"longitude": 127.034709,
+		"around_stations": [
+			"수유",
+			"창동"
+		]
+	},
+	{
+		"name": "수유",
+		"lines": [
+			"04호선"
+		],
+		"latitude": 37.638052,
+		"longitude": 127.025732,
+		"around_stations": [
+			"미아",
+			"쌍문"
+		]
+	},
+	{
+		"name": "미아",
+		"lines": [
+			"04호선"
+		],
+		"latitude": 37.62667,
+		"longitude": 127.025983,
+		"around_stations": [
+			"미아사거리",
+			"수유"
+		]
+	},
+	{
+		"name": "미아사거리",
+		"lines": [
+			"04호선"
+		],
+		"latitude": 37.613292,
+		"longitude": 127.030053,
+		"around_stations": [
+			"길음",
+			"미아"
+		]
+	},
+	{
+		"name": "길음",
+		"lines": [
+			"04호선"
+		],
+		"latitude": 37.603407,
+		"longitude": 127.025053,
+		"around_stations": [
+			"한성대입구",
+			"미아사거리"
+		]
+	},
+	{
+		"name": "성신여대입구",
+		"lines": [
+			"04호선",
+			"우이신설경전철"
+		],
+		"latitude": 37.592624,
+		"longitude": 127.016403,
+		"around_stations": [
+			"보문",
+			"정릉",
+			"길음",
+			"한성대입구"
+		]
+	},
+	{
+		"name": "한성대입구",
+		"lines": [
+			"04호선"
+		],
+		"latitude": 37.588458,
+		"longitude": 127.006221,
+		"around_stations": [
+			"혜화",
+			"성신여대입구"
+		]
+	},
+	{
+		"name": "혜화",
+		"lines": [
+			"04호선"
+		],
+		"latitude": 37.582336,
+		"longitude": 127.001844,
+		"around_stations": [
+			"동대문",
+			"한성대입구"
+		]
+	},
+	{
+		"name": "명동",
+		"lines": [
+			"04호선"
+		],
+		"latitude": 37.560989,
+		"longitude": 126.986325,
+		"around_stations": [
+			"회현",
+			"충무로"
+		]
+	},
+	{
+		"name": "회현",
+		"lines": [
+			"04호선"
+		],
+		"latitude": 37.558514,
+		"longitude": 126.978246,
+		"around_stations": [
+			"서울",
+			"명동"
+		]
+	},
+	{
+		"name": "숙대입구",
+		"lines": [
+			"04호선"
+		],
+		"latitude": 37.54456,
+		"longitude": 126.972106,
+		"around_stations": [
+			"삼각지",
+			"서울"
+		]
+	},
+	{
+		"name": "삼각지",
+		"lines": [
+			"04호선",
+			"06호선"
+		],
+		"latitude": 37.534777,
+		"longitude": 126.97311,
+		"around_stations": [
+			"효창공원앞",
+			"녹사평",
+			"숙대입구",
+			"신용산"
+		]
+	},
+	{
+		"name": "신용산",
+		"lines": [
+			"04호선"
+		],
+		"latitude": 37.52917,
+		"longitude": 126.967894,
+		"around_stations": [
+			"이촌",
+			"삼각지"
+		]
+	},
+	{
+		"name": "동작",
+		"lines": [
+			"04호선",
+			"09호선"
+		],
+		"latitude": 37.502971,
+		"longitude": 126.979306,
+		"around_stations": [
+			"흑석",
+			"구반포",
+			"이촌",
+			"이수(총신대)"
+		]
+	},
+	{
+		"name": "이수(총신대)",
+		"lines": [
+			"04호선",
+			"07호선"
+		],
+		"latitude": 37.486263,
+		"longitude": 126.981989,
+		"around_stations": [
+			"남성",
+			"내방",
+			"동작",
+			"사당"
+		]
+	},
+	{
+		"name": "경마공원",
+		"lines": [
+			"04호선"
+		],
+		"latitude": 37.443885,
+		"longitude": 127.007888,
+		"around_stations": [
+			"대공원",
+			"선바위"
+		]
+	},
+	{
+		"name": "대공원",
+		"lines": [
+			"04호선"
+		],
+		"latitude": 37.435675,
+		"longitude": 127.006523,
+		"around_stations": [
+			"과천",
+			"경마공원"
+		]
+	},
+	{
+		"name": "과천",
+		"lines": [
+			"04호선"
+		],
+		"latitude": 37.433021,
+		"longitude": 126.996568,
+		"around_stations": [
+			"정부과천청사",
+			"대공원"
+		]
+	},
+	{
+		"name": "정부과천청사",
+		"lines": [
+			"04호선"
+		],
+		"latitude": 37.426513,
+		"longitude": 126.98978,
+		"around_stations": [
+			"인덕원",
+			"과천"
+		]
+	},
+	{
+		"name": "인덕원",
+		"lines": [
+			"04호선"
+		],
+		"latitude": 37.401553,
+		"longitude": 126.976715,
+		"around_stations": [
+			"평촌",
+			"정부과천청사"
+		]
+	},
+	{
+		"name": "평촌",
+		"lines": [
+			"04호선"
+		],
+		"latitude": 37.394287,
+		"longitude": 126.963883,
+		"around_stations": [
+			"범계",
+			"인덕원"
+		]
+	},
+	{
+		"name": "범계",
+		"lines": [
+			"04호선"
+		],
+		"latitude": 37.389793,
+		"longitude": 126.950806,
+		"around_stations": [
+			"금정",
+			"평촌"
+		]
+	},
+	{
+		"name": "선바위",
+		"lines": [
+			"04호선"
+		],
+		"latitude": 37.451673,
+		"longitude": 127.002303,
+		"around_stations": [
+			"경마공원",
+			"남태령"
+		]
+	},
+	{
+		"name": "산본",
+		"lines": [
+			"04호선"
+		],
+		"latitude": 37.358101,
+		"longitude": 126.933274,
+		"around_stations": [
+			"수리산",
+			"금정"
+		]
+	},
+	{
+		"name": "대야미",
+		"lines": [
+			"04호선"
+		],
+		"latitude": 37.328467,
+		"longitude": 126.917332,
+		"around_stations": [
+			"반월",
+			"수리산"
+		]
+	},
+	{
+		"name": "반월",
+		"lines": [
+			"04호선"
+		],
+		"latitude": 37.312212,
+		"longitude": 126.903524,
+		"around_stations": [
+			"상록수",
+			"대야미"
+		]
+	},
+	{
+		"name": "상록수",
+		"lines": [
+			"04호선"
+		],
+		"latitude": 37.302795,
+		"longitude": 126.866489,
+		"around_stations": [
+			"한대앞",
+			"반월"
+		]
+	},
+	{
+		"name": "한대앞",
+		"lines": [
+			"04호선",
+			"수인분당선"
+		],
+		"latitude": 37.309689,
+		"longitude": 126.85344,
+		"around_stations": [
+			"중앙",
+			"사리",
+			"상록수"
+		]
+	},
+	{
+		"name": "중앙",
+		"lines": [
+			"04호선",
+			"수인분당선"
+		],
+		"latitude": 37.315941,
+		"longitude": 126.838573,
+		"around_stations": [
+			"고잔",
+			"한대앞"
+		]
+	},
+	{
+		"name": "고잔",
+		"lines": [
+			"04호선",
+			"수인분당선"
+		],
+		"latitude": 37.316777,
+		"longitude": 126.823249,
+		"around_stations": [
+			"초지",
+			"중앙"
+		]
+	},
+	{
+		"name": "초지",
+		"lines": [
+			"04호선",
+			"서해선",
+			"수인분당선"
+		],
+		"latitude": 37.320646,
+		"longitude": 126.805913,
+		"around_stations": [
+			"안산",
+			"고잔",
+			"선부",
+			"원곡"
+		]
+	},
+	{
+		"name": "안산",
+		"lines": [
+			"04호선",
+			"수인분당선"
+		],
+		"latitude": 37.327082,
+		"longitude": 126.788532,
+		"around_stations": [
+			"신길온천",
+			"초지"
+		]
+	},
+	{
+		"name": "신길온천",
+		"lines": [
+			"04호선",
+			"수인분당선"
+		],
+		"latitude": 37.338212,
+		"longitude": 126.765844,
+		"around_stations": [
+			"정왕",
+			"안산"
+		]
+	},
+	{
+		"name": "정왕",
+		"lines": [
+			"04호선",
+			"수인분당선"
+		],
+		"latitude": 37.351735,
+		"longitude": 126.742989,
+		"around_stations": [
+			"오이도",
+			"신길온천"
+		]
+	},
+	{
+		"name": "오이도",
+		"lines": [
+			"04호선",
+			"수인분당선"
+		],
+		"latitude": 37.362357,
+		"longitude": 126.738714,
+		"around_stations": [
+			"달월",
+			"정왕"
+		]
+	},
+	{
+		"name": "수리산",
+		"lines": [
+			"04호선"
+		],
+		"latitude": 37.349801,
+		"longitude": 126.925365,
+		"around_stations": [
+			"대야미",
+			"산본"
+		]
+	},
+	{
+		"name": "이촌",
+		"lines": [
+			"04호선",
+			"경의선"
+		],
+		"latitude": 37.522272,
+		"longitude": 126.974345,
+		"around_stations": [
+			"용산",
+			"서빙고",
+			"신용산",
+			"동작"
+		]
+	},
+	{
+		"name": "둔촌동",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.527788,
+		"longitude": 127.136248,
+		"around_stations": [
+			"강동",
+			"올림픽공원"
+		]
+	},
+	{
+		"name": "올림픽공원",
+		"lines": [
+			"05호선",
+			"09호선"
+		],
+		"latitude": 37.516078,
+		"longitude": 127.130848,
+		"around_stations": [
+			"둔촌동",
+			"방이",
+			"한성백제",
+			"둔촌오륜"
+		]
+	},
+	{
+		"name": "미사",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.561468,
+		"longitude": 127.1911413,
+		"around_stations": [
+			"강일",
+			"하남풍산"
+		]
+	},
+	{
+		"name": "하남풍산",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.5520632,
+		"longitude": 127.201686,
+		"around_stations": [
+			"미사",
+			"하남시청"
+		]
+	},
+	{
+		"name": "강일",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.557428744877704,
+		"longitude": 127.17563831477813,
+		"around_stations": [
+			"상일동",
+			"미사"
+		]
+	},
+	{
+		"name": "하남검단산",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.5397789222209,
+		"longitude": 127.22322718521292,
+		"around_stations": [
+			"하남시청"
+		]
+	},
+	{
+		"name": "하남시청",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.54196308251825,
+		"longitude": 127.2063060431385,
+		"around_stations": [
+			"하남풍산",
+			"하남검단산"
+		]
+	},
+	{
+		"name": "방화",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.577446,
+		"longitude": 126.812741,
+		"around_stations": [
+			"개화산"
+		]
+	},
+	{
+		"name": "개화산",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.572399,
+		"longitude": 126.806171,
+		"around_stations": [
+			"방화",
+			"김포공항"
+		]
+	},
+	{
+		"name": "김포공항",
+		"lines": [
+			"05호선",
+			"09호선",
+			"공항철도",
+			"김포도시철도"
+		],
+		"latitude": 37.562434,
+		"longitude": 126.801058,
+		"around_stations": [
+			"계양",
+			"마곡나루",
+			"개화",
+			"공항시장",
+			"고촌",
+			"개화산",
+			"송정"
+		]
+	},
+	{
+		"name": "송정",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.561184,
+		"longitude": 126.811973,
+		"around_stations": [
+			"김포공항",
+			"마곡"
+		]
+	},
+	{
+		"name": "마곡",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.560183,
+		"longitude": 126.825448,
+		"around_stations": [
+			"송정",
+			"발산"
+		]
+	},
+	{
+		"name": "애오개",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.553736,
+		"longitude": 126.95682,
+		"around_stations": [
+			"공덕",
+			"충정로"
+		]
+	},
+	{
+		"name": "서대문",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.565773,
+		"longitude": 126.966641,
+		"around_stations": [
+			"충정로",
+			"광화문"
+		]
+	},
+	{
+		"name": "광화문",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.571026,
+		"longitude": 126.976669,
+		"around_stations": [
+			"서대문",
+			"종로3가"
+		]
+	},
+	{
+		"name": "발산",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.558598,
+		"longitude": 126.837668,
+		"around_stations": [
+			"마곡",
+			"우장산"
+		]
+	},
+	{
+		"name": "우장산",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.548768,
+		"longitude": 126.836318,
+		"around_stations": [
+			"발산",
+			"화곡"
+		]
+	},
+	{
+		"name": "화곡",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.541513,
+		"longitude": 126.840461,
+		"around_stations": [
+			"우장산",
+			"까치산"
+		]
+	},
+	{
+		"name": "신정",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.524997,
+		"longitude": 126.856191,
+		"around_stations": [
+			"까치산",
+			"목동"
+		]
+	},
+	{
+		"name": "목동",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.526065,
+		"longitude": 126.864931,
+		"around_stations": [
+			"신정",
+			"오목교"
+		]
+	},
+	{
+		"name": "오목교",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.524496,
+		"longitude": 126.875181,
+		"around_stations": [
+			"목동",
+			"양평"
+		]
+	},
+	{
+		"name": "양평",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.5255688472834,
+		"longitude": 126.88643626847433,
+		"around_stations": [
+			"오목교",
+			"영등포구청"
+		]
+	},
+	{
+		"name": "영등포시장",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.522669,
+		"longitude": 126.905139,
+		"around_stations": [
+			"영등포구청",
+			"신길"
+		]
+	},
+	{
+		"name": "여의도",
+		"lines": [
+			"05호선",
+			"09호선"
+		],
+		"latitude": 37.521624,
+		"longitude": 126.924191,
+		"around_stations": [
+			"신길",
+			"여의나루",
+			"국회의사당",
+			"샛강"
+		]
+	},
+	{
+		"name": "여의나루",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.527098,
+		"longitude": 126.932901,
+		"around_stations": [
+			"여의도",
+			"마포"
+		]
+	},
+	{
+		"name": "마포",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.539574,
+		"longitude": 126.945932,
+		"around_stations": [
+			"여의나루",
+			"공덕"
+		]
+	},
+	{
+		"name": "공덕",
+		"lines": [
+			"05호선",
+			"06호선",
+			"경의선",
+			"공항철도"
+		],
+		"latitude": 37.544018,
+		"longitude": 126.951592,
+		"around_stations": [
+			"서강대",
+			"홍대입구",
+			"애오개",
+			"서울",
+			"효창공원앞",
+			"마포",
+			"대흥"
+		]
+	},
+	{
+		"name": "신금호",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.554548,
+		"longitude": 127.020331,
+		"around_stations": [
+			"청구",
+			"행당"
+		]
+	},
+	{
+		"name": "행당",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.557322,
+		"longitude": 127.029476,
+		"around_stations": [
+			"신금호",
+			"왕십리"
+		]
+	},
+	{
+		"name": "마장",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.5661,
+		"longitude": 127.042973,
+		"around_stations": [
+			"왕십리",
+			"답십리"
+		]
+	},
+	{
+		"name": "답십리",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.566747,
+		"longitude": 127.052704,
+		"around_stations": [
+			"마장",
+			"장한평"
+		]
+	},
+	{
+		"name": "장한평",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.56144,
+		"longitude": 127.064623,
+		"around_stations": [
+			"답십리",
+			"군자"
+		]
+	},
+	{
+		"name": "군자",
+		"lines": [
+			"05호선",
+			"07호선"
+		],
+		"latitude": 37.557121,
+		"longitude": 127.079542,
+		"around_stations": [
+			"장한평",
+			"아차산",
+			"어린이대공원",
+			"중곡"
+		]
+	},
+	{
+		"name": "아차산",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.551691,
+		"longitude": 127.089761,
+		"around_stations": [
+			"군자",
+			"광나루"
+		]
+	},
+	{
+		"name": "광나루",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.545303,
+		"longitude": 127.10357,
+		"around_stations": [
+			"아차산",
+			"천호"
+		]
+	},
+	{
+		"name": "천호",
+		"lines": [
+			"05호선",
+			"08호선"
+		],
+		"latitude": 37.538397,
+		"longitude": 127.123572,
+		"around_stations": [
+			"광나루",
+			"강동",
+			"강동구청",
+			"암사"
+		]
+	},
+	{
+		"name": "강동",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.535804,
+		"longitude": 127.132481,
+		"around_stations": [
+			"천호",
+			"길동",
+			"둔촌동"
+		]
+	},
+	{
+		"name": "길동",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.537801,
+		"longitude": 127.140004,
+		"around_stations": [
+			"강동",
+			"굽은다리"
+		]
+	},
+	{
+		"name": "굽은다리",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.545477,
+		"longitude": 127.142853,
+		"around_stations": [
+			"길동",
+			"명일"
+		]
+	},
+	{
+		"name": "명일",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.55137,
+		"longitude": 127.143999,
+		"around_stations": [
+			"굽은다리",
+			"고덕"
+		]
+	},
+	{
+		"name": "고덕",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.555004,
+		"longitude": 127.154151,
+		"around_stations": [
+			"명일",
+			"상일동"
+		]
+	},
+	{
+		"name": "상일동",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.556712,
+		"longitude": 127.166417,
+		"around_stations": [
+			"고덕",
+			"강일"
+		]
+	},
+	{
+		"name": "방이",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.508857,
+		"longitude": 127.126133,
+		"around_stations": [
+			"올림픽공원",
+			"오금"
+		]
+	},
+	{
+		"name": "개롱",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.498079,
+		"longitude": 127.13482,
+		"around_stations": [
+			"오금",
+			"거여"
+		]
+	},
+	{
+		"name": "거여",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.493105,
+		"longitude": 127.14415,
+		"around_stations": [
+			"개롱",
+			"마천"
+		]
+	},
+	{
+		"name": "마천",
+		"lines": [
+			"05호선"
+		],
+		"latitude": 37.49499,
+		"longitude": 127.152781,
+		"around_stations": [
+			"거여"
+		]
+	},
+	{
+		"name": "청구",
+		"lines": [
+			"05호선",
+			"06호선"
+		],
+		"latitude": 37.560245,
+		"longitude": 127.013828,
+		"around_stations": [
+			"동대문역사문화공원",
+			"신금호",
+			"신당",
+			"약수"
+		]
+	},
+	{
+		"name": "망원",
+		"lines": [
+			"06호선"
+		],
+		"latitude": 37.556094,
+		"longitude": 126.910052,
+		"around_stations": [
+			"마포구청",
+			"합정"
+		]
+	},
+	{
+		"name": "상수",
+		"lines": [
+			"06호선"
+		],
+		"latitude": 37.547716,
+		"longitude": 126.922852,
+		"around_stations": [
+			"합정",
+			"광흥창"
+		]
+	},
+	{
+		"name": "광흥창",
+		"lines": [
+			"06호선"
+		],
+		"latitude": 37.547456,
+		"longitude": 126.931993,
+		"around_stations": [
+			"상수",
+			"대흥"
+		]
+	},
+	{
+		"name": "대흥",
+		"lines": [
+			"06호선"
+		],
+		"latitude": 37.547771,
+		"longitude": 126.942069,
+		"around_stations": [
+			"광흥창",
+			"공덕"
+		]
+	},
+	{
+		"name": "버티고개",
+		"lines": [
+			"06호선"
+		],
+		"latitude": 37.548013,
+		"longitude": 127.007055,
+		"around_stations": [
+			"한강진",
+			"약수"
+		]
+	},
+	{
+		"name": "응암",
+		"lines": [
+			"06호선"
+		],
+		"latitude": 37.598605,
+		"longitude": 126.915577,
+		"around_stations": [
+			"구산",
+			"역촌",
+			"새절"
+		]
+	},
+	{
+		"name": "역촌",
+		"lines": [
+			"06호선"
+		],
+		"latitude": 37.606021,
+		"longitude": 126.922744,
+		"around_stations": [
+			"응암",
+			"불광"
+		]
+	},
+	{
+		"name": "독바위",
+		"lines": [
+			"06호선"
+		],
+		"latitude": 37.618456,
+		"longitude": 126.933031,
+		"around_stations": [
+			"연신내",
+			"불광"
+		]
+	},
+	{
+		"name": "구산",
+		"lines": [
+			"06호선"
+		],
+		"latitude": 37.611377,
+		"longitude": 126.91727,
+		"around_stations": [
+			"연신내",
+			"응암"
+		]
+	},
+	{
+		"name": "새절",
+		"lines": [
+			"06호선"
+		],
+		"latitude": 37.591148,
+		"longitude": 126.913629,
+		"around_stations": [
+			"응암",
+			"증산"
+		]
+	},
+	{
+		"name": "증산",
+		"lines": [
+			"06호선"
+		],
+		"latitude": 37.583876,
+		"longitude": 126.909645,
+		"around_stations": [
+			"새절",
+			"디지털미디어시티"
+		]
+	},
+	{
+		"name": "디지털미디어시티",
+		"lines": [
+			"06호선",
+			"경의선",
+			"공항철도"
+		],
+		"latitude": 37.576646,
+		"longitude": 126.900984,
+		"around_stations": [
+			"수색",
+			"가좌",
+			"증산",
+			"월드컵경기장",
+			"홍대입구",
+			"김포공항"
+		]
+	},
+	{
+		"name": "월드컵경기장",
+		"lines": [
+			"06호선"
+		],
+		"latitude": 37.569532,
+		"longitude": 126.899298,
+		"around_stations": [
+			"디지털미디어시티",
+			"마포구청"
+		]
+	},
+	{
+		"name": "마포구청",
+		"lines": [
+			"06호선"
+		],
+		"latitude": 37.563515,
+		"longitude": 126.903343,
+		"around_stations": [
+			"월드컵경기장",
+			"망원"
+		]
+	},
+	{
+		"name": "효창공원앞",
+		"lines": [
+			"06호선",
+			"경의선"
+		],
+		"latitude": 37.539261,
+		"longitude": 126.961351,
+		"around_stations": [
+			"공덕",
+			"용산",
+			"삼각지"
+		]
+	},
+	{
+		"name": "녹사평",
+		"lines": [
+			"06호선"
+		],
+		"latitude": 37.534675,
+		"longitude": 126.986695,
+		"around_stations": [
+			"삼각지",
+			"이태원"
+		]
+	},
+	{
+		"name": "이태원",
+		"lines": [
+			"06호선"
+		],
+		"latitude": 37.534488,
+		"longitude": 126.994302,
+		"around_stations": [
+			"녹사평",
+			"한강진"
+		]
+	},
+	{
+		"name": "한강진",
+		"lines": [
+			"06호선"
+		],
+		"latitude": 37.539631,
+		"longitude": 127.001725,
+		"around_stations": [
+			"이태원",
+			"버티고개"
+		]
+	},
+	{
+		"name": "창신",
+		"lines": [
+			"06호선"
+		],
+		"latitude": 37.579661,
+		"longitude": 127.015241,
+		"around_stations": [
+			"동묘앞",
+			"보문"
+		]
+	},
+	{
+		"name": "보문",
+		"lines": [
+			"06호선",
+			"우이신설경전철"
+		],
+		"latitude": 37.585286,
+		"longitude": 127.019381,
+		"around_stations": [
+			"창신",
+			"안암",
+			"성신여대입구",
+			"신설동"
+		]
+	},
+	{
+		"name": "안암",
+		"lines": [
+			"06호선"
+		],
+		"latitude": 37.586272,
+		"longitude": 127.029005,
+		"around_stations": [
+			"보문",
+			"고려대"
+		]
+	},
+	{
+		"name": "고려대",
+		"lines": [
+			"06호선"
+		],
+		"latitude": 37.590508,
+		"longitude": 127.036296,
+		"around_stations": [
+			"안암",
+			"월곡"
+		]
+	},
+	{
+		"name": "월곡",
+		"lines": [
+			"06호선"
+		],
+		"latitude": 37.601948,
+		"longitude": 127.041518,
+		"around_stations": [
+			"고려대",
+			"상월곡"
+		]
+	},
+	{
+		"name": "상월곡",
+		"lines": [
+			"06호선"
+		],
+		"latitude": 37.606377,
+		"longitude": 127.048491,
+		"around_stations": [
+			"월곡",
+			"돌곶이"
+		]
+	},
+	{
+		"name": "돌곶이",
+		"lines": [
+			"06호선"
+		],
+		"latitude": 37.610537,
+		"longitude": 127.056431,
+		"around_stations": [
+			"상월곡",
+			"석계"
+		]
+	},
+	{
+		"name": "태릉입구",
+		"lines": [
+			"06호선",
+			"07호선"
+		],
+		"latitude": 37.617983,
+		"longitude": 127.07512,
+		"around_stations": [
+			"석계",
+			"화랑대",
+			"공릉",
+			"먹골"
+		]
+	},
+	{
+		"name": "화랑대",
+		"lines": [
+			"06호선"
+		],
+		"latitude": 37.620064,
+		"longitude": 127.084689,
+		"around_stations": [
+			"태릉입구",
+			"봉화산"
+		]
+	},
+	{
+		"name": "봉화산",
+		"lines": [
+			"06호선"
+		],
+		"latitude": 37.617283,
+		"longitude": 127.091401,
+		"around_stations": [
+			"화랑대",
+			"신내"
+		]
+	},
+	{
+		"name": "신내",
+		"lines": [
+			"06호선",
+			"경춘선"
+		],
+		"latitude": 37.612887,
+		"longitude": 127.103218,
+		"around_stations": [
+			"망우",
+			"갈매",
+			"봉화산"
+		]
+	},
+	{
+		"name": "강남구청",
+		"lines": [
+			"07호선",
+			"수인분당선"
+		],
+		"latitude": 37.517186,
+		"longitude": 127.04128,
+		"around_stations": [
+			"선정릉",
+			"압구정로데오",
+			"학동",
+			"청담"
+		]
+	},
+	{
+		"name": "학동",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.514229,
+		"longitude": 127.031656,
+		"around_stations": [
+			"논현",
+			"강남구청"
+		]
+	},
+	{
+		"name": "논현",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.511093,
+		"longitude": 127.021415,
+		"around_stations": [
+			"반포",
+			"학동"
+		]
+	},
+	{
+		"name": "반포",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.508178,
+		"longitude": 127.011727,
+		"around_stations": [
+			"고속터미널",
+			"논현"
+		]
+	},
+	{
+		"name": "내방",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.487618,
+		"longitude": 126.993513,
+		"around_stations": [
+			"이수(총신대)",
+			"고속터미널"
+		]
+	},
+	{
+		"name": "까치울",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.506207,
+		"longitude": 126.810939,
+		"around_stations": [
+			"부천종합운동장",
+			"온수"
+		]
+	},
+	{
+		"name": "부천종합운동장",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.50538,
+		"longitude": 126.797337,
+		"around_stations": [
+			"춘의",
+			"까치울"
+		]
+	},
+	{
+		"name": "춘의",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.503663,
+		"longitude": 126.787036,
+		"around_stations": [
+			"신중동",
+			"부천종합운동장"
+		]
+	},
+	{
+		"name": "부평구청",
+		"lines": [
+			"07호선",
+			"인천선"
+		],
+		"latitude": 37.508336,
+		"longitude": 126.720548,
+		"around_stations": [
+			"부평시장",
+			"갈산",
+			"굴포천"
+		]
+	},
+	{
+		"name": "사가정",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.580894,
+		"longitude": 127.088478,
+		"around_stations": [
+			"용마산",
+			"면목"
+		]
+	},
+	{
+		"name": "용마산",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.573647,
+		"longitude": 127.086727,
+		"around_stations": [
+			"중곡",
+			"사가정"
+		]
+	},
+	{
+		"name": "중곡",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.565923,
+		"longitude": 127.08432,
+		"around_stations": [
+			"군자",
+			"용마산"
+		]
+	},
+	{
+		"name": "어린이대공원",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.548014,
+		"longitude": 127.074658,
+		"around_stations": [
+			"건대입구",
+			"군자"
+		]
+	},
+	{
+		"name": "남성",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.484596,
+		"longitude": 126.971251,
+		"around_stations": [
+			"숭실대입구",
+			"이수(총신대)"
+		]
+	},
+	{
+		"name": "숭실대입구",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.496029,
+		"longitude": 126.953822,
+		"around_stations": [
+			"상도",
+			"남성"
+		]
+	},
+	{
+		"name": "상도",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.502834,
+		"longitude": 126.94791,
+		"around_stations": [
+			"장승배기",
+			"숭실대입구"
+		]
+	},
+	{
+		"name": "장승배기",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.504898,
+		"longitude": 126.93915,
+		"around_stations": [
+			"신대방삼거리",
+			"상도"
+		]
+	},
+	{
+		"name": "신대방삼거리",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.499701,
+		"longitude": 126.928276,
+		"around_stations": [
+			"보라매",
+			"장승배기"
+		]
+	},
+	{
+		"name": "보라매",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.499872,
+		"longitude": 126.920428,
+		"around_stations": [
+			"신풍",
+			"신대방삼거리"
+		]
+	},
+	{
+		"name": "신풍",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.50008,
+		"longitude": 126.90993,
+		"around_stations": [
+			"대림",
+			"보라매"
+		]
+	},
+	{
+		"name": "남구로",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.486056,
+		"longitude": 126.887249,
+		"around_stations": [
+			"가산디지털단지",
+			"대림"
+		]
+	},
+	{
+		"name": "철산",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.47605,
+		"longitude": 126.867911,
+		"around_stations": [
+			"광명사거리",
+			"가산디지털단지"
+		]
+	},
+	{
+		"name": "광명사거리",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.479252,
+		"longitude": 126.854876,
+		"around_stations": [
+			"천왕",
+			"철산"
+		]
+	},
+	{
+		"name": "천왕",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.486637,
+		"longitude": 126.838713,
+		"around_stations": [
+			"온수",
+			"광명사거리"
+		]
+	},
+	{
+		"name": "장암",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.700109,
+		"longitude": 127.053196,
+		"around_stations": [
+			"도봉산"
+		]
+	},
+	{
+		"name": "중화",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.602545,
+		"longitude": 127.079264,
+		"around_stations": [
+			"상봉",
+			"먹골"
+		]
+	},
+	{
+		"name": "상봉",
+		"lines": [
+			"07호선",
+			"경의선",
+			"경춘선"
+		],
+		"latitude": 37.596362,
+		"longitude": 127.085032,
+		"around_stations": [
+			"중랑",
+			"망우",
+			"면목",
+			"중화",
+			"광운대"
+		]
+	},
+	{
+		"name": "면목",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.588579,
+		"longitude": 127.087503,
+		"around_stations": [
+			"사가정",
+			"상봉"
+		]
+	},
+	{
+		"name": "뚝섬유원지",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.53154,
+		"longitude": 127.066704,
+		"around_stations": [
+			"청담",
+			"건대입구"
+		]
+	},
+	{
+		"name": "청담",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.519365,
+		"longitude": 127.05335,
+		"around_stations": [
+			"강남구청",
+			"뚝섬유원지"
+		]
+	},
+	{
+		"name": "수락산",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.67785,
+		"longitude": 127.055315,
+		"around_stations": [
+			"마들",
+			"도봉산"
+		]
+	},
+	{
+		"name": "마들",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.66494,
+		"longitude": 127.057675,
+		"around_stations": [
+			"노원",
+			"수락산"
+		]
+	},
+	{
+		"name": "중계",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.644583,
+		"longitude": 127.064303,
+		"around_stations": [
+			"하계",
+			"노원"
+		]
+	},
+	{
+		"name": "하계",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.636352,
+		"longitude": 127.06799,
+		"around_stations": [
+			"공릉",
+			"중계"
+		]
+	},
+	{
+		"name": "공릉",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.625742,
+		"longitude": 127.072896,
+		"around_stations": [
+			"태릉입구",
+			"하계"
+		]
+	},
+	{
+		"name": "먹골",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.610637,
+		"longitude": 127.077725,
+		"around_stations": [
+			"중화",
+			"태릉입구"
+		]
+	},
+	{
+		"name": "신중동",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.503048,
+		"longitude": 126.77596,
+		"around_stations": [
+			"부천시청",
+			"춘의"
+		]
+	},
+	{
+		"name": "부천시청",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.504631,
+		"longitude": 126.763538,
+		"around_stations": [
+			"상동",
+			"신중동"
+		]
+	},
+	{
+		"name": "상동",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.505781,
+		"longitude": 126.753083,
+		"around_stations": [
+			"삼산체육관",
+			"부천시청"
+		]
+	},
+	{
+		"name": "삼산체육관",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.506411,
+		"longitude": 126.742153,
+		"around_stations": [
+			"굴포천",
+			"상동"
+		]
+	},
+	{
+		"name": "굴포천",
+		"lines": [
+			"07호선"
+		],
+		"latitude": 37.506997,
+		"longitude": 126.73128,
+		"around_stations": [
+			"부평구청",
+			"삼산체육관"
+		]
+	},
+	{
+		"name": "암사",
+		"lines": [
+			"08호선"
+		],
+		"latitude": 37.55021,
+		"longitude": 127.127562,
+		"around_stations": [
+			"천호"
+		]
+	},
+	{
+		"name": "강동구청",
+		"lines": [
+			"08호선"
+		],
+		"latitude": 37.530341,
+		"longitude": 127.120508,
+		"around_stations": [
+			"몽촌토성",
+			"천호"
+		]
+	},
+	{
+		"name": "몽촌토성",
+		"lines": [
+			"08호선"
+		],
+		"latitude": 37.517409,
+		"longitude": 127.112359,
+		"around_stations": [
+			"잠실",
+			"강동구청"
+		]
+	},
+	{
+		"name": "신흥",
+		"lines": [
+			"08호선"
+		],
+		"latitude": 37.440918,
+		"longitude": 127.147564,
+		"around_stations": [
+			"수진",
+			"단대오거리"
+		]
+	},
+	{
+		"name": "수진",
+		"lines": [
+			"08호선"
+		],
+		"latitude": 37.437428,
+		"longitude": 127.140722,
+		"around_stations": [
+			"모란",
+			"신흥"
+		]
+	},
+	{
+		"name": "모란",
+		"lines": [
+			"08호선",
+			"수인분당선"
+		],
+		"latitude": 37.43213,
+		"longitude": 127.129087,
+		"around_stations": [
+			"야탑",
+			"태평",
+			"수진"
+		]
+	},
+	{
+		"name": "석촌",
+		"lines": [
+			"08호선",
+			"09호선"
+		],
+		"latitude": 37.505431,
+		"longitude": 127.106979,
+		"around_stations": [
+			"석촌고분",
+			"송파나루",
+			"잠실",
+			"송파"
+		]
+	},
+	{
+		"name": "송파",
+		"lines": [
+			"08호선"
+		],
+		"latitude": 37.499703,
+		"longitude": 127.112183,
+		"around_stations": [
+			"가락시장",
+			"석촌"
+		]
+	},
+	{
+		"name": "문정",
+		"lines": [
+			"08호선"
+		],
+		"latitude": 37.485855,
+		"longitude": 127.1225,
+		"around_stations": [
+			"장지",
+			"가락시장"
+		]
+	},
+	{
+		"name": "장지",
+		"lines": [
+			"08호선"
+		],
+		"latitude": 37.478703,
+		"longitude": 127.126191,
+		"around_stations": [
+			"복정",
+			"문정"
+		]
+	},
+	{
+		"name": "복정",
+		"lines": [
+			"08호선",
+			"수인분당선"
+		],
+		"latitude": 37.470047,
+		"longitude": 127.126662,
+		"around_stations": [
+			"가천대",
+			"수서",
+			"산성",
+			"장지"
+		]
+	},
+	{
+		"name": "산성",
+		"lines": [
+			"08호선"
+		],
+		"latitude": 37.457122,
+		"longitude": 127.149908,
+		"around_stations": [
+			"남한산성입구",
+			"복정"
+		]
+	},
+	{
+		"name": "남한산성입구",
+		"lines": [
+			"08호선"
+		],
+		"latitude": 37.451535,
+		"longitude": 127.159816,
+		"around_stations": [
+			"단대오거리",
+			"산성"
+		]
+	},
+	{
+		"name": "단대오거리",
+		"lines": [
+			"08호선"
+		],
+		"latitude": 37.44521,
+		"longitude": 127.156866,
+		"around_stations": [
+			"신흥",
+			"남한산성입구"
+		]
+	},
+	{
+		"name": "석촌고분",
+		"lines": [
+			"09호선"
+		],
+		"latitude": 37.5029416,
+		"longitude": 127.1030796,
+		"around_stations": [
+			"삼전",
+			"석촌"
+		]
+	},
+	{
+		"name": "송파나루",
+		"lines": [
+			"09호선"
+		],
+		"latitude": 37.5029584,
+		"longitude": 127.1030581,
+		"around_stations": [
+			"석촌",
+			"한성백제"
+		]
+	},
+	{
+		"name": "한성백제",
+		"lines": [
+			"09호선"
+		],
+		"latitude": 37.5158598,
+		"longitude": 127.1171543,
+		"around_stations": [
+			"송파나루",
+			"올림픽공원"
+		]
+	},
+	{
+		"name": "둔촌오륜",
+		"lines": [
+			"09호선"
+		],
+		"latitude": 37.5193002,
+		"longitude": 127.136481,
+		"around_stations": [
+			"올림픽공원",
+			"중앙보훈병원"
+		]
+	},
+	{
+		"name": "선정릉",
+		"lines": [
+			"09호선",
+			"수인분당선"
+		],
+		"latitude": 37.51098,
+		"longitude": 127.043593,
+		"around_stations": [
+			"선릉",
+			"강남구청",
+			"언주",
+			"삼성중앙"
+		]
+	},
+	{
+		"name": "삼성중앙",
+		"lines": [
+			"09호선"
+		],
+		"latitude": 37.513011,
+		"longitude": 127.053282,
+		"around_stations": [
+			"선정릉",
+			"봉은사"
+		]
+	},
+	{
+		"name": "봉은사",
+		"lines": [
+			"09호선"
+		],
+		"latitude": 37.514219,
+		"longitude": 127.060245,
+		"around_stations": [
+			"삼성중앙",
+			"종합운동장"
+		]
+	},
+	{
+		"name": "삼전",
+		"lines": [
+			"09호선"
+		],
+		"latitude": 37.5046844,
+		"longitude": 127.0855792,
+		"around_stations": [
+			"종합운동장",
+			"석촌고분"
+		]
+	},
+	{
+		"name": "중앙보훈병원",
+		"lines": [
+			"09호선"
+		],
+		"latitude": 37.5288832,
+		"longitude": 127.146342,
+		"around_stations": [
+			"둔촌오륜"
+		]
+	},
+	{
+		"name": "개화",
+		"lines": [
+			"09호선"
+		],
+		"latitude": 37.578608,
+		"longitude": 126.798153,
+		"around_stations": [
+			"김포공항"
+		]
+	},
+	{
+		"name": "공항시장",
+		"lines": [
+			"09호선"
+		],
+		"latitude": 37.563726,
+		"longitude": 126.810678,
+		"around_stations": [
+			"김포공항",
+			"신방화"
+		]
+	},
+	{
+		"name": "신방화",
+		"lines": [
+			"09호선"
+		],
+		"latitude": 37.567532,
+		"longitude": 126.816601,
+		"around_stations": [
+			"공항시장",
+			"마곡나루"
+		]
+	},
+	{
+		"name": "마곡나루",
+		"lines": [
+			"09호선",
+			"공항철도"
+		],
+		"latitude": 37.567336,
+		"longitude": 126.829497,
+		"around_stations": [
+			"김포공항",
+			"디지털미디어시티",
+			"신방화",
+			"양천향교"
+		]
+	},
+	{
+		"name": "양천향교",
+		"lines": [
+			"09호선"
+		],
+		"latitude": 37.568381,
+		"longitude": 126.841333,
+		"around_stations": [
+			"마곡나루",
+			"가양"
+		]
+	},
+	{
+		"name": "증미",
+		"lines": [
+			"09호선"
+		],
+		"latitude": 37.557402,
+		"longitude": 126.861939,
+		"around_stations": [
+			"가양",
+			"등촌"
+		]
+	},
+	{
+		"name": "등촌",
+		"lines": [
+			"09호선"
+		],
+		"latitude": 37.550632,
+		"longitude": 126.865689,
+		"around_stations": [
+			"증미",
+			"염창"
+		]
+	},
+	{
+		"name": "선유도",
+		"lines": [
+			"09호선"
+		],
+		"latitude": 37.53802,
+		"longitude": 126.893525,
+		"around_stations": [
+			"신목동",
+			"당산"
+		]
+	},
+	{
+		"name": "샛강",
+		"lines": [
+			"09호선"
+		],
+		"latitude": 37.517274,
+		"longitude": 126.928422,
+		"around_stations": [
+			"여의도",
+			"노량진"
+		]
+	},
+	{
+		"name": "흑석",
+		"lines": [
+			"09호선"
+		],
+		"latitude": 37.50877,
+		"longitude": 126.963708,
+		"around_stations": [
+			"노들",
+			"동작"
+		]
+	},
+	{
+		"name": "구반포",
+		"lines": [
+			"09호선"
+		],
+		"latitude": 37.501364,
+		"longitude": 126.987332,
+		"around_stations": [
+			"동작",
+			"신반포"
+		]
+	},
+	{
+		"name": "신반포",
+		"lines": [
+			"09호선"
+		],
+		"latitude": 37.503415,
+		"longitude": 126.995925,
+		"around_stations": [
+			"구반포",
+			"고속터미널"
+		]
+	},
+	{
+		"name": "신논현",
+		"lines": [
+			"09호선"
+		],
+		"latitude": 37.504598,
+		"longitude": 127.02506,
+		"around_stations": [
+			"사평",
+			"언주"
+		]
+	},
+	{
+		"name": "염창",
+		"lines": [
+			"09호선"
+		],
+		"latitude": 37.546936,
+		"longitude": 126.874916,
+		"around_stations": [
+			"등촌",
+			"신목동"
+		]
+	},
+	{
+		"name": "신목동",
+		"lines": [
+			"09호선"
+		],
+		"latitude": 37.544277,
+		"longitude": 126.88308,
+		"around_stations": [
+			"염창",
+			"선유도"
+		]
+	},
+	{
+		"name": "국회의사당",
+		"lines": [
+			"09호선"
+		],
+		"latitude": 37.528105,
+		"longitude": 126.917874,
+		"around_stations": [
+			"당산",
+			"여의도"
+		]
+	},
+	{
+		"name": "노들",
+		"lines": [
+			"09호선"
+		],
+		"latitude": 37.512887,
+		"longitude": 126.953222,
+		"around_stations": [
+			"노량진",
+			"흑석"
+		]
+	},
+	{
+		"name": "사평",
+		"lines": [
+			"09호선"
+		],
+		"latitude": 37.504206,
+		"longitude": 127.015259,
+		"around_stations": [
+			"고속터미널",
+			"신논현"
+		]
+	},
+	{
+		"name": "가양",
+		"lines": [
+			"09호선"
+		],
+		"latitude": 37.561391,
+		"longitude": 126.854456,
+		"around_stations": [
+			"양천향교",
+			"증미"
+		]
+	},
+	{
+		"name": "언주",
+		"lines": [
+			"09호선"
+		],
+		"latitude": 37.507287,
+		"longitude": 127.033868,
+		"around_stations": [
+			"신논현",
+			"선정릉"
+		]
+	},
+	{
+		"name": "삼동",
+		"lines": [
+			"경강선"
+		],
+		"latitude": 37.409522,
+		"longitude": 127.20336,
+		"around_stations": [
+			"이매",
+			"경기광주"
+		]
+	},
+	{
+		"name": "경기광주",
+		"lines": [
+			"경강선"
+		],
+		"latitude": 37.399907,
+		"longitude": 126.630347,
+		"around_stations": [
+			"삼동",
+			"초월"
+		]
+	},
+	{
+		"name": "초월",
+		"lines": [
+			"경강선"
+		],
+		"latitude": 37.374419,
+		"longitude": 127.299,
+		"around_stations": [
+			"경기광주",
+			"곤지암"
+		]
+	},
+	{
+		"name": "곤지암",
+		"lines": [
+			"경강선"
+		],
+		"latitude": 37.351315,
+		"longitude": 127.34674,
+		"around_stations": [
+			"초월",
+			"신둔도예촌"
+		]
+	},
+	{
+		"name": "신둔도예촌",
+		"lines": [
+			"경강선"
+		],
+		"latitude": 37.317185,
+		"longitude": 127.40476,
+		"around_stations": [
+			"곤지암",
+			"이천"
+		]
+	},
+	{
+		"name": "이천",
+		"lines": [
+			"경강선"
+		],
+		"latitude": 37.265579,
+		"longitude": 127.44226,
+		"around_stations": [
+			"신둔도예촌",
+			"부발"
+		]
+	},
+	{
+		"name": "부발",
+		"lines": [
+			"경강선"
+		],
+		"latitude": 37.260192,
+		"longitude": 127.490277,
+		"around_stations": [
+			"이천",
+			"세종대왕릉"
+		]
+	},
+	{
+		"name": "여주",
+		"lines": [
+			"경강선"
+		],
+		"latitude": 37.282701,
+		"longitude": 127.628607,
+		"around_stations": [
+			"세종대왕릉"
+		]
+	},
+	{
+		"name": "세종대왕릉",
+		"lines": [
+			"경강선"
+		],
+		"latitude": 37.295309,
+		"longitude": 127.570938,
+		"around_stations": [
+			"부발",
+			"여주"
+		]
+	},
+	{
+		"name": "이매",
+		"lines": [
+			"경강선",
+			"수인분당선"
+		],
+		"latitude": 37.396104,
+		"longitude": 127.12827,
+		"around_stations": [
+			"서현",
+			"야탑",
+			"판교",
+			"삼동"
+		]
+	},
+	{
+		"name": "판교",
+		"lines": [
+			"경강선",
+			"신분당선"
+		],
+		"latitude": 37.394761,
+		"longitude": 127.111217,
+		"around_stations": [
+			"정자",
+			"청계산입구",
+			"이매"
+		]
+	},
+	{
+		"name": "서빙고",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.519594,
+		"longitude": 126.988537,
+		"around_stations": [
+			"이촌",
+			"한남"
+		]
+	},
+	{
+		"name": "중랑",
+		"lines": [
+			"경의선",
+			"경춘선"
+		],
+		"latitude": 37.594917,
+		"longitude": 127.076116,
+		"around_stations": [
+			"회기",
+			"상봉"
+		]
+	},
+	{
+		"name": "망우",
+		"lines": [
+			"경의선",
+			"경춘선"
+		],
+		"latitude": 37.59955,
+		"longitude": 127.091909,
+		"around_stations": [
+			"상봉",
+			"양원",
+			"신내"
+		]
+	},
+	{
+		"name": "양원",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.606596,
+		"longitude": 127.107906,
+		"around_stations": [
+			"망우",
+			"구리"
+		]
+	},
+	{
+		"name": "구리",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.603392,
+		"longitude": 127.143869,
+		"around_stations": [
+			"양원",
+			"도농"
+		]
+	},
+	{
+		"name": "도농",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.608806,
+		"longitude": 127.161153,
+		"around_stations": [
+			"구리",
+			"양정"
+		]
+	},
+	{
+		"name": "양정",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.60533,
+		"longitude": 127.19364,
+		"around_stations": [
+			"도농",
+			"덕소"
+		]
+	},
+	{
+		"name": "덕소",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.586781,
+		"longitude": 127.208832,
+		"around_stations": [
+			"양정",
+			"도심"
+		]
+	},
+	{
+		"name": "도심",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.579622,
+		"longitude": 127.222672,
+		"around_stations": [
+			"덕소",
+			"팔당"
+		]
+	},
+	{
+		"name": "팔당",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.547371,
+		"longitude": 127.243939,
+		"around_stations": [
+			"도심",
+			"운길산"
+		]
+	},
+	{
+		"name": "운길산",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.554669,
+		"longitude": 127.310115,
+		"around_stations": [
+			"팔당",
+			"양수"
+		]
+	},
+	{
+		"name": "양수",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.545981,
+		"longitude": 127.329098,
+		"around_stations": [
+			"운길산",
+			"신원"
+		]
+	},
+	{
+		"name": "신원",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.525545,
+		"longitude": 127.372921,
+		"around_stations": [
+			"양수",
+			"국수"
+		]
+	},
+	{
+		"name": "응봉",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.549946,
+		"longitude": 127.034538,
+		"around_stations": [
+			"옥수",
+			"왕십리"
+		]
+	},
+	{
+		"name": "국수",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.516169,
+		"longitude": 127.399367,
+		"around_stations": [
+			"신원",
+			"아신"
+		]
+	},
+	{
+		"name": "아신",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.51382,
+		"longitude": 127.443173,
+		"around_stations": [
+			"국수",
+			"오빈"
+		]
+	},
+	{
+		"name": "오빈",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.506062,
+		"longitude": 127.473868,
+		"around_stations": [
+			"아신",
+			"양평(중앙)"
+		]
+	},
+	{
+		"name": "양평(중앙)",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.492695677260684,
+		"longitude": 127.49222959342376,
+		"around_stations": [
+			"오빈",
+			"원덕"
+		]
+	},
+	{
+		"name": "원덕",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.468672,
+		"longitude": 127.547076,
+		"around_stations": [
+			"양평(중앙)",
+			"용문"
+		]
+	},
+	{
+		"name": "용문",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.48223,
+		"longitude": 127.594647,
+		"around_stations": [
+			"원덕",
+			"지평"
+		]
+	},
+	{
+		"name": "지평",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.476444,
+		"longitude": 127.629617,
+		"around_stations": [
+			"용문"
+		]
+	},
+	{
+		"name": "신촌(경의선)",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.5584701,
+		"longitude": 126.9387193,
+		"around_stations": [
+			"가좌",
+			"서울"
+		]
+	},
+	{
+		"name": "수색",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.580842,
+		"longitude": 126.895611,
+		"around_stations": [
+			"화전",
+			"디지털미디어시티"
+		]
+	},
+	{
+		"name": "화전",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.602888,
+		"longitude": 126.868387,
+		"around_stations": [
+			"행신",
+			"수색"
+		]
+	},
+	{
+		"name": "강매",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.612314,
+		"longitude": 126.843223,
+		"around_stations": [
+			"행신",
+			"화전"
+		]
+	},
+	{
+		"name": "행신",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.612102,
+		"longitude": 126.834146,
+		"around_stations": [
+			"능곡",
+			"강매"
+		]
+	},
+	{
+		"name": "능곡",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.618808,
+		"longitude": 126.820783,
+		"around_stations": [
+			"대곡",
+			"행신"
+		]
+	},
+	{
+		"name": "곡산",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.645676,
+		"longitude": 126.801762,
+		"around_stations": [
+			"백마",
+			"대곡"
+		]
+	},
+	{
+		"name": "풍산",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.672346,
+		"longitude": 126.786243,
+		"around_stations": [
+			"일산",
+			"백마"
+		]
+	},
+	{
+		"name": "일산",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.682077,
+		"longitude": 126.769846,
+		"around_stations": [
+			"탄현",
+			"풍산"
+		]
+	},
+	{
+		"name": "탄현",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.694023,
+		"longitude": 126.761086,
+		"around_stations": [
+			"운정",
+			"일산"
+		]
+	},
+	{
+		"name": "운정",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.725826,
+		"longitude": 126.767257,
+		"around_stations": [
+			"금릉",
+			"야당"
+		]
+	},
+	{
+		"name": "금릉",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.751322,
+		"longitude": 126.765347,
+		"around_stations": [
+			"금촌",
+			"운정"
+		]
+	},
+	{
+		"name": "월롱",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.796188,
+		"longitude": 126.792587,
+		"around_stations": [
+			"파주",
+			"금촌"
+		]
+	},
+	{
+		"name": "파주",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.815298,
+		"longitude": 126.792783,
+		"around_stations": [
+			"문산",
+			"월롱"
+		]
+	},
+	{
+		"name": "문산",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.854619,
+		"longitude": 126.788047,
+		"around_stations": [
+			"임진강",
+			"파주"
+		]
+	},
+	{
+		"name": "임진강",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.8888842,
+		"longitude": 126.745303,
+		"around_stations": [
+			"문산"
+		]
+	},
+	{
+		"name": "서강대",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.551881,
+		"longitude": 126.935711,
+		"around_stations": [
+			"홍대입구",
+			"공덕"
+		]
+	},
+	{
+		"name": "백마",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.658239,
+		"longitude": 126.794461,
+		"around_stations": [
+			"풍산",
+			"곡산"
+		]
+	},
+	{
+		"name": "야당",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.712327,
+		"longitude": 126.761356,
+		"around_stations": [
+			"운정",
+			"탄현"
+		]
+	},
+	{
+		"name": "금촌",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.766217,
+		"longitude": 126.774644,
+		"around_stations": [
+			"월롱",
+			"금릉"
+		]
+	},
+	{
+		"name": "한남",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.52943,
+		"longitude": 127.009169,
+		"around_stations": [
+			"서빙고",
+			"옥수"
+		]
+	},
+	{
+		"name": "가좌",
+		"lines": [
+			"경의선"
+		],
+		"latitude": 37.568491,
+		"longitude": 126.915487,
+		"around_stations": [
+			"디지털미디어시티",
+			"신촌(경의선)",
+			"홍대입구"
+		]
+	},
+	{
+		"name": "갈매",
+		"lines": [
+			"경춘선"
+		],
+		"latitude": 37.634118,
+		"longitude": 127.114757,
+		"around_stations": [
+			"신내",
+			"별내"
+		]
+	},
+	{
+		"name": "별내",
+		"lines": [
+			"경춘선"
+		],
+		"latitude": 37.64202,
+		"longitude": 127.12684,
+		"around_stations": [
+			"갈매",
+			"퇴계원"
+		]
+	},
+	{
+		"name": "퇴계원",
+		"lines": [
+			"경춘선"
+		],
+		"latitude": 37.648311,
+		"longitude": 127.143952,
+		"around_stations": [
+			"별내",
+			"사릉"
+		]
+	},
+	{
+		"name": "사릉",
+		"lines": [
+			"경춘선"
+		],
+		"latitude": 37.65108,
+		"longitude": 127.176933,
+		"around_stations": [
+			"퇴계원",
+			"금곡"
+		]
+	},
+	{
+		"name": "평내호평",
+		"lines": [
+			"경춘선"
+		],
+		"latitude": 37.653225,
+		"longitude": 127.244493,
+		"around_stations": [
+			"금곡",
+			"천마산"
+		]
+	},
+	{
+		"name": "마석",
+		"lines": [
+			"경춘선"
+		],
+		"latitude": 37.652782,
+		"longitude": 127.311767,
+		"around_stations": [
+			"천마산",
+			"대성리"
+		]
+	},
+	{
+		"name": "대성리",
+		"lines": [
+			"경춘선"
+		],
+		"latitude": 37.684071,
+		"longitude": 127.379319,
+		"around_stations": [
+			"마석",
+			"청평"
+		]
+	},
+	{
+		"name": "청평",
+		"lines": [
+			"경춘선"
+		],
+		"latitude": 37.735488,
+		"longitude": 127.42661,
+		"around_stations": [
+			"대성리",
+			"상천"
+		]
+	},
+	{
+		"name": "상천",
+		"lines": [
+			"경춘선"
+		],
+		"latitude": 37.770246,
+		"longitude": 127.454821,
+		"around_stations": [
+			"청평",
+			"가평"
+		]
+	},
+	{
+		"name": "가평",
+		"lines": [
+			"경춘선"
+		],
+		"latitude": 37.814536,
+		"longitude": 127.510739,
+		"around_stations": [
+			"상천",
+			"굴봉산"
+		]
+	},
+	{
+		"name": "굴봉산",
+		"lines": [
+			"경춘선"
+		],
+		"latitude": 37.832067,
+		"longitude": 127.557695,
+		"around_stations": [
+			"가평",
+			"백양리"
+		]
+	},
+	{
+		"name": "백양리",
+		"lines": [
+			"경춘선"
+		],
+		"latitude": 37.830779,
+		"longitude": 127.58933,
+		"around_stations": [
+			"굴봉산",
+			"강촌"
+		]
+	},
+	{
+		"name": "강촌",
+		"lines": [
+			"경춘선"
+		],
+		"latitude": 37.805723,
+		"longitude": 127.634146,
+		"around_stations": [
+			"백양리",
+			"김유정"
+		]
+	},
+	{
+		"name": "김유정",
+		"lines": [
+			"경춘선"
+		],
+		"latitude": 37.818466,
+		"longitude": 127.71434,
+		"around_stations": [
+			"강촌",
+			"남춘천"
+		]
+	},
+	{
+		"name": "남춘천",
+		"lines": [
+			"경춘선"
+		],
+		"latitude": 37.864007,
+		"longitude": 127.723792,
+		"around_stations": [
+			"김유정",
+			"춘천"
+		]
+	},
+	{
+		"name": "금곡",
+		"lines": [
+			"경춘선"
+		],
+		"latitude": 37.637382,
+		"longitude": 127.207853,
+		"around_stations": [
+			"사릉",
+			"평내호평"
+		]
+	},
+	{
+		"name": "천마산",
+		"lines": [
+			"경춘선"
+		],
+		"latitude": 37.658978,
+		"longitude": 127.285379,
+		"around_stations": [
+			"평내호평",
+			"마석"
+		]
+	},
+	{
+		"name": "춘천",
+		"lines": [
+			"경춘선"
+		],
+		"latitude": 37.885054,
+		"longitude": 127.717023,
+		"around_stations": [
+			"남춘천"
+		]
+	},
+	{
+		"name": "계양",
+		"lines": [
+			"공항철도",
+			"인천선"
+		],
+		"latitude": 37.571462,
+		"longitude": 126.735637,
+		"around_stations": [
+			"검암",
+			"김포공항",
+			"귤현"
+		]
+	},
+	{
+		"name": "검암",
+		"lines": [
+			"공항철도",
+			"인천2호선"
+		],
+		"latitude": 37.569104,
+		"longitude": 126.673728,
+		"around_stations": [
+			"청라국제도시",
+			"계양",
+			"독정",
+			"검바위"
+		]
+	},
+	{
+		"name": "청라국제도시",
+		"lines": [
+			"공항철도"
+		],
+		"latitude": 37.555878,
+		"longitude": 126.625327,
+		"around_stations": [
+			"영종",
+			"검암"
+		]
+	},
+	{
+		"name": "운서",
+		"lines": [
+			"공항철도"
+		],
+		"latitude": 37.492904,
+		"longitude": 126.49379,
+		"around_stations": [
+			"공항화물청사",
+			"영종"
+		]
+	},
+	{
+		"name": "공항화물청사",
+		"lines": [
+			"공항철도"
+		],
+		"latitude": 37.458366,
+		"longitude": 126.476241,
+		"around_stations": [
+			"인천공항1터미널",
+			"운서"
+		]
+	},
+	{
+		"name": "인천공항1터미널",
+		"lines": [
+			"공항철도",
+			"자기부상철도"
+		],
+		"latitude": 37.4475222,
+		"longitude": 126.4503834,
+		"around_stations": [
+			"인천공항2터미널",
+			"공항화물청사",
+			"장기주차장"
+		]
+	},
+	{
+		"name": "인천공항2터미널",
+		"lines": [
+			"공항철도"
+		],
+		"latitude": 37.4848197,
+		"longitude": 126.4374223,
+		"around_stations": [
+			"인천공항1터미널"
+		]
+	},
+	{
+		"name": "영종",
+		"lines": [
+			"공항철도"
+		],
+		"latitude": 37.511466,
+		"longitude": 126.5237,
+		"around_stations": [
+			"운서",
+			"청라국제도시"
+		]
+	},
+	{
+		"name": "양촌",
+		"lines": [
+			"김포도시철도"
+		],
+		"latitude": 37.6417212,
+		"longitude": 126.612564,
+		"around_stations": [
+			"구래"
+		]
+	},
+	{
+		"name": "구래",
+		"lines": [
+			"김포도시철도"
+		],
+		"latitude": 37.6454012,
+		"longitude": 126.626514,
+		"around_stations": [
+			"양촌",
+			"마산"
+		]
+	},
+	{
+		"name": "마산",
+		"lines": [
+			"김포도시철도"
+		],
+		"latitude": 37.6408182,
+		"longitude": 126.642313,
+		"around_stations": [
+			"구래",
+			"장기"
+		]
+	},
+	{
+		"name": "장기",
+		"lines": [
+			"김포도시철도"
+		],
+		"latitude": 37.6427654,
+		"longitude": 126.6670937,
+		"around_stations": [
+			"마산",
+			"운양"
+		]
+	},
+	{
+		"name": "운양",
+		"lines": [
+			"김포도시철도"
+		],
+		"latitude": 37.6538552,
+		"longitude": 126.681649,
+		"around_stations": [
+			"장기",
+			"걸포북변"
+		]
+	},
+	{
+		"name": "걸포북변",
+		"lines": [
+			"김포도시철도"
+		],
+		"latitude": 37.6316542,
+		"longitude": 126.703538,
+		"around_stations": [
+			"운양",
+			"사우"
+		]
+	},
+	{
+		"name": "사우",
+		"lines": [
+			"김포도시철도"
+		],
+		"latitude": 37.6203182,
+		"longitude": 126.717614,
+		"around_stations": [
+			"걸포북변",
+			"풍무"
+		]
+	},
+	{
+		"name": "풍무",
+		"lines": [
+			"김포도시철도"
+		],
+		"latitude": 37.6122982,
+		"longitude": 126.730499,
+		"around_stations": [
+			"사우",
+			"고촌"
+		]
+	},
+	{
+		"name": "고촌",
+		"lines": [
+			"김포도시철도"
+		],
+		"latitude": 37.6014032,
+		"longitude": 126.76802,
+		"around_stations": [
+			"풍무",
+			"김포공항"
+		]
+	},
+	{
+		"name": "한티",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.496237,
+		"longitude": 127.052873,
+		"around_stations": [
+			"도곡",
+			"선릉"
+		]
+	},
+	{
+		"name": "구룡",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.486839,
+		"longitude": 127.058856,
+		"around_stations": [
+			"개포동",
+			"도곡"
+		]
+	},
+	{
+		"name": "개포동",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.489116,
+		"longitude": 127.06614,
+		"around_stations": [
+			"대모산입구",
+			"구룡"
+		]
+	},
+	{
+		"name": "대모산입구",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.491373,
+		"longitude": 127.07272,
+		"around_stations": [
+			"수서",
+			"개포동"
+		]
+	},
+	{
+		"name": "서울숲",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.543617,
+		"longitude": 127.044707,
+		"around_stations": [
+			"압구정로데오",
+			"왕십리"
+		]
+	},
+	{
+		"name": "압구정로데오",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.527381,
+		"longitude": 127.040534,
+		"around_stations": [
+			"강남구청",
+			"서울숲"
+		]
+	},
+	{
+		"name": "가천대",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.448605,
+		"longitude": 127.126697,
+		"around_stations": [
+			"태평",
+			"복정"
+		]
+	},
+	{
+		"name": "태평",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.440019,
+		"longitude": 127.127709,
+		"around_stations": [
+			"모란",
+			"가천대"
+		]
+	},
+	{
+		"name": "야탑",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.411185,
+		"longitude": 127.128715,
+		"around_stations": [
+			"이매",
+			"모란"
+		]
+	},
+	{
+		"name": "서현",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.385126,
+		"longitude": 127.123592,
+		"around_stations": [
+			"수내",
+			"이매"
+		]
+	},
+	{
+		"name": "수내",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.378455,
+		"longitude": 127.114322,
+		"around_stations": [
+			"정자",
+			"서현"
+		]
+	},
+	{
+		"name": "정자",
+		"lines": [
+			"수인분당선",
+			"신분당선"
+		],
+		"latitude": 37.36706,
+		"longitude": 127.108105,
+		"around_stations": [
+			"미금",
+			"수내",
+			"판교"
+		]
+	},
+	{
+		"name": "미금",
+		"lines": [
+			"수인분당선",
+			"신분당선"
+		],
+		"latitude": 37.350077,
+		"longitude": 127.10891,
+		"around_stations": [
+			"오리",
+			"정자",
+			"동천"
+		]
+	},
+	{
+		"name": "신갈",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.286102,
+		"longitude": 127.111313,
+		"around_stations": [
+			"기흥",
+			"구성"
+		]
+	},
+	{
+		"name": "상갈",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.26181,
+		"longitude": 127.108847,
+		"around_stations": [
+			"청명",
+			"기흥"
+		]
+	},
+	{
+		"name": "청명",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.259489,
+		"longitude": 127.078934,
+		"around_stations": [
+			"영통",
+			"상갈"
+		]
+	},
+	{
+		"name": "영통",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.251568,
+		"longitude": 127.071394,
+		"around_stations": [
+			"망포",
+			"청명"
+		]
+	},
+	{
+		"name": "망포",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.245795,
+		"longitude": 127.057353,
+		"around_stations": [
+			"매탄권선",
+			"영통"
+		]
+	},
+	{
+		"name": "매탄권선",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.252759,
+		"longitude": 127.040566,
+		"around_stations": [
+			"수원시청",
+			"망포"
+		]
+	},
+	{
+		"name": "수원시청",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.261911,
+		"longitude": 127.030736,
+		"around_stations": [
+			"매교",
+			"매탄권선"
+		]
+	},
+	{
+		"name": "매교",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.265481,
+		"longitude": 127.015678,
+		"around_stations": [
+			"수원",
+			"수원시청"
+		]
+	},
+	{
+		"name": "구성",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.298969,
+		"longitude": 127.105664,
+		"around_stations": [
+			"신갈",
+			"보정"
+		]
+	},
+	{
+		"name": "보정",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.312752,
+		"longitude": 127.108196,
+		"around_stations": [
+			"구성",
+			"죽전"
+		]
+	},
+	{
+		"name": "오리",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.339824,
+		"longitude": 127.108942,
+		"around_stations": [
+			"죽전",
+			"미금"
+		]
+	},
+	{
+		"name": "죽전",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.324753,
+		"longitude": 127.107395,
+		"around_stations": [
+			"보정",
+			"오리"
+		]
+	},
+	{
+		"name": "기흥",
+		"lines": [
+			"수인분당선",
+			"용인경전철"
+		],
+		"latitude": 37.275619,
+		"longitude": 127.115936,
+		"around_stations": [
+			"상갈",
+			"신갈",
+			"강남대"
+		]
+	},
+	{
+		"name": "소새울",
+		"lines": [
+			"서해선"
+		],
+		"latitude": 37.4683816,
+		"longitude": 126.7957752,
+		"around_stations": [
+			"소사",
+			"시흥대야"
+		]
+	},
+	{
+		"name": "시흥대야",
+		"lines": [
+			"서해선"
+		],
+		"latitude": 37.4501982,
+		"longitude": 126.790783,
+		"around_stations": [
+			"소새울",
+			"신천"
+		]
+	},
+	{
+		"name": "신천",
+		"lines": [
+			"서해선"
+		],
+		"latitude": 37.4390364,
+		"longitude": 126.7860373,
+		"around_stations": [
+			"시흥대야",
+			"신현"
+		]
+	},
+	{
+		"name": "신현",
+		"lines": [
+			"서해선"
+		],
+		"latitude": 37.4096235,
+		"longitude": 126.7882578,
+		"around_stations": [
+			"신천",
+			"시흥시청"
+		]
+	},
+	{
+		"name": "시흥시청",
+		"lines": [
+			"서해선"
+		],
+		"latitude": 37.3814799,
+		"longitude": 126.8034582,
+		"around_stations": [
+			"신현",
+			"시흥능곡"
+		]
+	},
+	{
+		"name": "시흥능곡",
+		"lines": [
+			"서해선"
+		],
+		"latitude": 37.370157,
+		"longitude": 126.8065453,
+		"around_stations": [
+			"시흥시청",
+			"달미"
+		]
+	},
+	{
+		"name": "달미",
+		"lines": [
+			"서해선"
+		],
+		"latitude": 37.3489544,
+		"longitude": 126.8073508,
+		"around_stations": [
+			"시흥능곡",
+			"선부"
+		]
+	},
+	{
+		"name": "선부",
+		"lines": [
+			"서해선"
+		],
+		"latitude": 37.3344112,
+		"longitude": 126.807809,
+		"around_stations": [
+			"달미",
+			"초지"
+		]
+	},
+	{
+		"name": "원곡",
+		"lines": [
+			"서해선"
+		],
+		"latitude": 37.3131572,
+		"longitude": 126.793524,
+		"around_stations": [
+			"초지",
+			"원시"
+		]
+	},
+	{
+		"name": "원시",
+		"lines": [
+			"서해선"
+		],
+		"latitude": 37.3004026,
+		"longitude": 126.7839674,
+		"around_stations": [
+			"원곡"
+		]
+	},
+	{
+		"name": "달월",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.379681,
+		"longitude": 126.745177,
+		"around_stations": [
+			"월곶",
+			"오이도"
+		]
+	},
+	{
+		"name": "월곶",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.391769,
+		"longitude": 126.742699,
+		"around_stations": [
+			"소래포구",
+			"달월"
+		]
+	},
+	{
+		"name": "소래포구",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.40095,
+		"longitude": 126.733522,
+		"around_stations": [
+			"인천논현",
+			"월곶"
+		]
+	},
+	{
+		"name": "인천논현",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.400614,
+		"longitude": 126.722478,
+		"around_stations": [
+			"호구포",
+			"소래포구"
+		]
+	},
+	{
+		"name": "호구포",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.401637,
+		"longitude": 126.708627,
+		"around_stations": [
+			"남동인더스파크",
+			"인천논현"
+		]
+	},
+	{
+		"name": "남동인더스파크",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.407722,
+		"longitude": 126.695216,
+		"around_stations": [
+			"원인재",
+			"호구포"
+		]
+	},
+	{
+		"name": "원인재",
+		"lines": [
+			"수인분당선",
+			"인천선"
+		],
+		"latitude": 37.412603,
+		"longitude": 126.687389,
+		"around_stations": [
+			"동춘",
+			"신연수",
+			"연수",
+			"남동인더스파크"
+		]
+	},
+	{
+		"name": "연수",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.417804,
+		"longitude": 126.67894,
+		"around_stations": [
+			"송도",
+			"원인재"
+		]
+	},
+	{
+		"name": "송도",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.428514,
+		"longitude": 126.657772,
+		"around_stations": [
+			"인하대",
+			"연수"
+		]
+	},
+	{
+		"name": "인하대",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.448493,
+		"longitude": 126.649619,
+		"around_stations": [
+			"숭의",
+			"송도"
+		]
+	},
+	{
+		"name": "숭의",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.460789,
+		"longitude": 126.638297,
+		"around_stations": [
+			"신포",
+			"인하대"
+		]
+	},
+	{
+		"name": "신포",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.46874,
+		"longitude": 126.623853,
+		"around_stations": [
+			"인천",
+			"숭의"
+		]
+	},
+	{
+		"name": "동천",
+		"lines": [
+			"신분당선"
+		],
+		"latitude": 37.337928,
+		"longitude": 127.102976,
+		"around_stations": [
+			"수지구청",
+			"미금"
+		]
+	},
+	{
+		"name": "수지구청",
+		"lines": [
+			"신분당선"
+		],
+		"latitude": 37.322702,
+		"longitude": 127.095026,
+		"around_stations": [
+			"성복",
+			"동천"
+		]
+	},
+	{
+		"name": "성복",
+		"lines": [
+			"신분당선"
+		],
+		"latitude": 37.313335,
+		"longitude": 127.0801,
+		"around_stations": [
+			"상현",
+			"수지구청"
+		]
+	},
+	{
+		"name": "상현",
+		"lines": [
+			"신분당선"
+		],
+		"latitude": 37.297664,
+		"longitude": 127.069342,
+		"around_stations": [
+			"광교중앙",
+			"성복"
+		]
+	},
+	{
+		"name": "광교중앙",
+		"lines": [
+			"신분당선"
+		],
+		"latitude": 37.288617,
+		"longitude": 127.051478,
+		"around_stations": [
+			"광교",
+			"상현"
+		]
+	},
+	{
+		"name": "양재시민의숲",
+		"lines": [
+			"신분당선"
+		],
+		"latitude": 37.470023,
+		"longitude": 127.03842,
+		"around_stations": [
+			"청계산입구",
+			"양재"
+		]
+	},
+	{
+		"name": "광교",
+		"lines": [
+			"신분당선"
+		],
+		"latitude": 37.30211,
+		"longitude": 127.044483,
+		"around_stations": [
+			"광교중앙"
+		]
+	},
+	{
+		"name": "청계산입구",
+		"lines": [
+			"신분당선"
+		],
+		"latitude": 37.447211,
+		"longitude": 127.055664,
+		"around_stations": [
+			"판교",
+			"양재시민의숲"
+		]
+	},
+	{
+		"name": "강남대",
+		"lines": [
+			"용인경전철"
+		],
+		"latitude": 37.270161,
+		"longitude": 127.126033,
+		"around_stations": [
+			"기흥",
+			"지석"
+		]
+	},
+	{
+		"name": "지석",
+		"lines": [
+			"용인경전철"
+		],
+		"latitude": 37.269606,
+		"longitude": 127.136515,
+		"around_stations": [
+			"강남대",
+			"어정"
+		]
+	},
+	{
+		"name": "어정",
+		"lines": [
+			"용인경전철"
+		],
+		"latitude": 37.274917,
+		"longitude": 127.143714,
+		"around_stations": [
+			"지석",
+			"동백"
+		]
+	},
+	{
+		"name": "동백",
+		"lines": [
+			"용인경전철"
+		],
+		"latitude": 37.269043,
+		"longitude": 127.152716,
+		"around_stations": [
+			"어정",
+			"초당"
+		]
+	},
+	{
+		"name": "초당",
+		"lines": [
+			"용인경전철"
+		],
+		"latitude": 37.260752,
+		"longitude": 127.159443,
+		"around_stations": [
+			"동백",
+			"삼가"
+		]
+	},
+	{
+		"name": "시청·용인대",
+		"lines": [
+			"용인경전철"
+		],
+		"latitude": 37.239151,
+		"longitude": 127.178406,
+		"around_stations": [
+			"삼가",
+			"명지대"
+		]
+	},
+	{
+		"name": "명지대",
+		"lines": [
+			"용인경전철"
+		],
+		"latitude": 37.237964,
+		"longitude": 127.190294,
+		"around_stations": [
+			"시청·용인대",
+			"김량장"
+		]
+	},
+	{
+		"name": "김량장",
+		"lines": [
+			"용인경전철"
+		],
+		"latitude": 37.237247,
+		"longitude": 127.198781,
+		"around_stations": [
+			"명지대",
+			"운동장·송담대"
+		]
+	},
+	{
+		"name": "운동장·송담대",
+		"lines": [
+			"용인경전철"
+		],
+		"latitude": 37.237845,
+		"longitude": 127.209198,
+		"around_stations": [
+			"김량장",
+			"고진"
+		]
+	},
+	{
+		"name": "고진",
+		"lines": [
+			"용인경전철"
+		],
+		"latitude": 37.24484,
+		"longitude": 127.214251,
+		"around_stations": [
+			"운동장·송담대",
+			"보평"
+		]
+	},
+	{
+		"name": "보평",
+		"lines": [
+			"용인경전철"
+		],
+		"latitude": 37.258965,
+		"longitude": 127.218457,
+		"around_stations": [
+			"고진",
+			"둔전"
+		]
+	},
+	{
+		"name": "둔전",
+		"lines": [
+			"용인경전철"
+		],
+		"latitude": 37.267051,
+		"longitude": 127.21364,
+		"around_stations": [
+			"보평",
+			"전대·에버랜드"
+		]
+	},
+	{
+		"name": "삼가",
+		"lines": [
+			"용인경전철"
+		],
+		"latitude": 37.242115,
+		"longitude": 127.168075,
+		"around_stations": [
+			"초당",
+			"시청·용인대"
+		]
+	},
+	{
+		"name": "전대·에버랜드",
+		"lines": [
+			"용인경전철"
+		],
+		"latitude": 37.285342,
+		"longitude": 127.219561,
+		"around_stations": [
+			"둔전"
+		]
+	},
+	{
+		"name": "북한산우이",
+		"lines": [
+			"우이신설경전철"
+		],
+		"latitude": 37.663146,
+		"longitude": 127.012789,
+		"around_stations": [
+			"솔밭공원"
+		]
+	},
+	{
+		"name": "솔밭공원",
+		"lines": [
+			"우이신설경전철"
+		],
+		"latitude": 37.656088,
+		"longitude": 127.013252,
+		"around_stations": [
+			"4·19민주묘지",
+			"북한산우이"
+		]
+	},
+	{
+		"name": "4·19민주묘지",
+		"lines": [
+			"우이신설경전철"
+		],
+		"latitude": 37.649593,
+		"longitude": 127.013746,
+		"around_stations": [
+			"가오리",
+			"솔밭공원"
+		]
+	},
+	{
+		"name": "가오리",
+		"lines": [
+			"우이신설경전철"
+		],
+		"latitude": 37.641701,
+		"longitude": 127.016792,
+		"around_stations": [
+			"화계",
+			"4·19민주묘지"
+		]
+	},
+	{
+		"name": "삼양사거리",
+		"lines": [
+			"우이신설경전철"
+		],
+		"latitude": 37.621512,
+		"longitude": 127.02048,
+		"around_stations": [
+			"솔샘",
+			"삼양"
+		]
+	},
+	{
+		"name": "솔샘",
+		"lines": [
+			"우이신설경전철"
+		],
+		"latitude": 37.62124,
+		"longitude": 127.013528,
+		"around_stations": [
+			"북한산보국문",
+			"삼양사거리"
+		]
+	},
+	{
+		"name": "북한산보국문",
+		"lines": [
+			"우이신설경전철"
+		],
+		"latitude": 37.612343,
+		"longitude": 127.008009,
+		"around_stations": [
+			"정릉",
+			"솔샘"
+		]
+	},
+	{
+		"name": "정릉",
+		"lines": [
+			"우이신설경전철"
+		],
+		"latitude": 37.602798,
+		"longitude": 127.01349,
+		"around_stations": [
+			"성신여대입구",
+			"북한산보국문"
+		]
+	},
+	{
+		"name": "화계",
+		"lines": [
+			"우이신설경전철"
+		],
+		"latitude": 37.634802,
+		"longitude": 127.017519,
+		"around_stations": [
+			"삼양",
+			"가오리"
+		]
+	},
+	{
+		"name": "삼양",
+		"lines": [
+			"우이신설경전철"
+		],
+		"latitude": 37.627165,
+		"longitude": 127.018152,
+		"around_stations": [
+			"삼양사거리",
+			"화계"
+		]
+	},
+	{
+		"name": "동오",
+		"lines": [
+			"의정부경전철"
+		],
+		"latitude": 37.745271,
+		"longitude": 127.056947,
+		"around_stations": [
+			"의정부중앙",
+			"새말"
+		]
+	},
+	{
+		"name": "새말",
+		"lines": [
+			"의정부경전철"
+		],
+		"latitude": 37.748885,
+		"longitude": 127.06362,
+		"around_stations": [
+			"동오",
+			"경기도청북부청사"
+		]
+	},
+	{
+		"name": "경기도청북부청사",
+		"lines": [
+			"의정부경전철"
+		],
+		"latitude": 37.75059,
+		"longitude": 127.071495,
+		"around_stations": [
+			"새말",
+			"효자"
+		]
+	},
+	{
+		"name": "효자",
+		"lines": [
+			"의정부경전철"
+		],
+		"latitude": 37.754025,
+		"longitude": 127.076902,
+		"around_stations": [
+			"경기도청북부청사",
+			"곤제"
+		]
+	},
+	{
+		"name": "범골",
+		"lines": [
+			"의정부경전철"
+		],
+		"latitude": 37.728755,
+		"longitude": 127.04353,
+		"around_stations": [
+			"회룡",
+			"경전철의정부"
+		]
+	},
+	{
+		"name": "경전철의정부",
+		"lines": [
+			"의정부경전철"
+		],
+		"latitude": 37.737202,
+		"longitude": 127.043257,
+		"around_stations": [
+			"범골",
+			"의정부시청"
+		]
+	},
+	{
+		"name": "의정부시청",
+		"lines": [
+			"의정부경전철"
+		],
+		"latitude": 37.739256,
+		"longitude": 127.034781,
+		"around_stations": [
+			"경전철의정부",
+			"흥선"
+		]
+	},
+	{
+		"name": "흥선",
+		"lines": [
+			"의정부경전철"
+		],
+		"latitude": 37.743302,
+		"longitude": 127.037023,
+		"around_stations": [
+			"의정부시청",
+			"의정부중앙"
+		]
+	},
+	{
+		"name": "의정부중앙",
+		"lines": [
+			"의정부경전철"
+		],
+		"latitude": 37.743676,
+		"longitude": 127.049565,
+		"around_stations": [
+			"흥선",
+			"동오"
+		]
+	},
+	{
+		"name": "곤제",
+		"lines": [
+			"의정부경전철"
+		],
+		"latitude": 37.750471,
+		"longitude": 127.083715,
+		"around_stations": [
+			"효자",
+			"어룡"
+		]
+	},
+	{
+		"name": "어룡",
+		"lines": [
+			"의정부경전철"
+		],
+		"latitude": 37.742802,
+		"longitude": 127.085035,
+		"around_stations": [
+			"곤제",
+			"송산"
+		]
+	},
+	{
+		"name": "발곡",
+		"lines": [
+			"의정부경전철"
+		],
+		"latitude": 37.727048,
+		"longitude": 127.052803,
+		"around_stations": [
+			"회룡"
+		]
+	},
+	{
+		"name": "송산",
+		"lines": [
+			"의정부경전철"
+		],
+		"latitude": 37.737279,
+		"longitude": 127.087159,
+		"around_stations": [
+			"어룡",
+			"탑석"
+		]
+	},
+	{
+		"name": "탑석",
+		"lines": [
+			"의정부경전철"
+		],
+		"latitude": 37.733579,
+		"longitude": 127.088704,
+		"around_stations": [
+			"송산"
+		]
+	},
+	{
+		"name": "검단사거리",
+		"lines": [
+			"인천2호선"
+		],
+		"latitude": 37.60185,
+		"longitude": 126.657108,
+		"around_stations": [
+			"왕길",
+			"마전"
+		]
+	},
+	{
+		"name": "인천대공원",
+		"lines": [
+			"인천2호선"
+		],
+		"latitude": 37.448769,
+		"longitude": 126.752618,
+		"around_stations": [
+			"남동구청",
+			"운연"
+		]
+	},
+	{
+		"name": "마전",
+		"lines": [
+			"인천2호선"
+		],
+		"latitude": 37.597566,
+		"longitude": 126.666998,
+		"around_stations": [
+			"검단사거리",
+			"완정"
+		]
+	},
+	{
+		"name": "독정",
+		"lines": [
+			"인천2호선"
+		],
+		"latitude": 37.585212,
+		"longitude": 126.675844,
+		"around_stations": [
+			"완정",
+			"검암"
+		]
+	},
+	{
+		"name": "검바위",
+		"lines": [
+			"인천2호선"
+		],
+		"latitude": 37.561405,
+		"longitude": 126.677566,
+		"around_stations": [
+			"검암",
+			"아시아드경기장"
+		]
+	},
+	{
+		"name": "서구청",
+		"lines": [
+			"인천2호선"
+		],
+		"latitude": 37.543742,
+		"longitude": 126.676787,
+		"around_stations": [
+			"아시아드경기장",
+			"가정"
+		]
+	},
+	{
+		"name": "가정",
+		"lines": [
+			"인천2호선"
+		],
+		"latitude": 37.524649,
+		"longitude": 126.675539,
+		"around_stations": [
+			"서구청",
+			"가정중앙시장"
+		]
+	},
+	{
+		"name": "인천가좌",
+		"lines": [
+			"인천2호선"
+		],
+		"latitude": 37.4897,
+		"longitude": 126.675208,
+		"around_stations": [
+			"서부여성회관",
+			"가재울"
+		]
+	},
+	{
+		"name": "가재울",
+		"lines": [
+			"인천2호선"
+		],
+		"latitude": 37.484192,
+		"longitude": 126.683673,
+		"around_stations": [
+			"인천가좌",
+			"주안국가산단"
+		]
+	},
+	{
+		"name": "주안국가산단",
+		"lines": [
+			"인천2호선"
+		],
+		"latitude": 37.473703,
+		"longitude": 126.68113,
+		"around_stations": [
+			"가재울",
+			"주안"
+		]
+	},
+	{
+		"name": "인천시청",
+		"lines": [
+			"인천2호선",
+			"인천선"
+		],
+		"latitude": 37.457405,
+		"longitude": 126.702221,
+		"around_stations": [
+			"예술회관",
+			"간석오거리",
+			"석바위시장",
+			"석천사거리"
+		]
+	},
+	{
+		"name": "석천사거리",
+		"lines": [
+			"인천2호선"
+		],
+		"latitude": 37.456805,
+		"longitude": 126.709986,
+		"around_stations": [
+			"인천시청",
+			"모래내시장"
+		]
+	},
+	{
+		"name": "모래내시장",
+		"lines": [
+			"인천2호선"
+		],
+		"latitude": 37.45583,
+		"longitude": 126.719298,
+		"around_stations": [
+			"석천사거리",
+			"만수"
+		]
+	},
+	{
+		"name": "만수",
+		"lines": [
+			"인천2호선"
+		],
+		"latitude": 37.454911,
+		"longitude": 126.732094,
+		"around_stations": [
+			"모래내시장",
+			"남동구청"
+		]
+	},
+	{
+		"name": "운연",
+		"lines": [
+			"인천2호선"
+		],
+		"latitude": 37.440127,
+		"longitude": 126.75997,
+		"around_stations": [
+			"인천대공원"
+		]
+	},
+	{
+		"name": "가정중앙시장",
+		"lines": [
+			"인천2호선"
+		],
+		"latitude": 37.517054,
+		"longitude": 126.676672,
+		"around_stations": [
+			"가정",
+			"석남"
+		]
+	},
+	{
+		"name": "석남",
+		"lines": [
+			"인천2호선"
+		],
+		"latitude": 37.506193,
+		"longitude": 126.676203,
+		"around_stations": [
+			"가정중앙시장",
+			"서부여성회관"
+		]
+	},
+	{
+		"name": "서부여성회관",
+		"lines": [
+			"인천2호선"
+		],
+		"latitude": 37.506193,
+		"longitude": 126.676203,
+		"around_stations": [
+			"석남",
+			"인천가좌"
+		]
+	},
+	{
+		"name": "시민공원",
+		"lines": [
+			"인천2호선"
+		],
+		"latitude": 37.458335,
+		"longitude": 126.681192,
+		"around_stations": [
+			"주안",
+			"석바위시장"
+		]
+	},
+	{
+		"name": "석바위시장",
+		"lines": [
+			"인천2호선"
+		],
+		"latitude": 37.457611,
+		"longitude": 126.692575,
+		"around_stations": [
+			"시민공원",
+			"인천시청"
+		]
+	},
+	{
+		"name": "왕길",
+		"lines": [
+			"인천2호선"
+		],
+		"latitude": 37.59518,
+		"longitude": 126.642696,
+		"around_stations": [
+			"검단오류",
+			"검단사거리"
+		]
+	},
+	{
+		"name": "완정",
+		"lines": [
+			"인천2호선"
+		],
+		"latitude": 37.592928,
+		"longitude": 126.673203,
+		"around_stations": [
+			"마전",
+			"독정"
+		]
+	},
+	{
+		"name": "남동구청",
+		"lines": [
+			"인천2호선"
+		],
+		"latitude": 37.448161,
+		"longitude": 126.736939,
+		"around_stations": [
+			"만수",
+			"인천대공원"
+		]
+	},
+	{
+		"name": "아시아드경기장",
+		"lines": [
+			"인천2호선"
+		],
+		"latitude": 37.5517,
+		"longitude": 126.677122,
+		"around_stations": [
+			"검바위",
+			"서구청"
+		]
+	},
+	{
+		"name": "검단오류",
+		"lines": [
+			"인천2호선"
+		],
+		"latitude": 37.594877,
+		"longitude": 126.627178,
+		"around_stations": [
+			"왕길"
+		]
+	},
+	{
+		"name": "귤현",
+		"lines": [
+			"인천선"
+		],
+		"latitude": 37.566379,
+		"longitude": 126.742654,
+		"around_stations": [
+			"박촌",
+			"계양"
+		]
+	},
+	{
+		"name": "박촌",
+		"lines": [
+			"인천선"
+		],
+		"latitude": 37.553703,
+		"longitude": 126.745077,
+		"around_stations": [
+			"임학",
+			"귤현"
+		]
+	},
+	{
+		"name": "임학",
+		"lines": [
+			"인천선"
+		],
+		"latitude": 37.545059,
+		"longitude": 126.738665,
+		"around_stations": [
+			"계산",
+			"박촌"
+		]
+	},
+	{
+		"name": "계산",
+		"lines": [
+			"인천선"
+		],
+		"latitude": 37.543238,
+		"longitude": 126.728128,
+		"around_stations": [
+			"경인교대입구",
+			"임학"
+		]
+	},
+	{
+		"name": "경인교대입구",
+		"lines": [
+			"인천선"
+		],
+		"latitude": 37.538157,
+		"longitude": 126.722597,
+		"around_stations": [
+			"작전",
+			"계산"
+		]
+	},
+	{
+		"name": "작전",
+		"lines": [
+			"인천선"
+		],
+		"latitude": 37.530415,
+		"longitude": 126.722527,
+		"around_stations": [
+			"갈산",
+			"경인교대입구"
+		]
+	},
+	{
+		"name": "갈산",
+		"lines": [
+			"인천선"
+		],
+		"latitude": 37.517268,
+		"longitude": 126.721514,
+		"around_stations": [
+			"부평구청",
+			"작전"
+		]
+	},
+	{
+		"name": "부평시장",
+		"lines": [
+			"인천선"
+		],
+		"latitude": 37.498383,
+		"longitude": 126.722244,
+		"around_stations": [
+			"부평",
+			"부평구청"
+		]
+	},
+	{
+		"name": "동수",
+		"lines": [
+			"인천선"
+		],
+		"latitude": 37.485312,
+		"longitude": 126.718247,
+		"around_stations": [
+			"부평삼거리",
+			"부평"
+		]
+	},
+	{
+		"name": "부평삼거리",
+		"lines": [
+			"인천선"
+		],
+		"latitude": 37.477679,
+		"longitude": 126.710208,
+		"around_stations": [
+			"간석오거리",
+			"동수"
+		]
+	},
+	{
+		"name": "예술회관",
+		"lines": [
+			"인천선"
+		],
+		"latitude": 37.449396,
+		"longitude": 126.701012,
+		"around_stations": [
+			"인천터미널",
+			"인천시청"
+		]
+	},
+	{
+		"name": "인천터미널",
+		"lines": [
+			"인천선"
+		],
+		"latitude": 37.442383,
+		"longitude": 126.699706,
+		"around_stations": [
+			"문학경기장",
+			"예술회관"
+		]
+	},
+	{
+		"name": "문학경기장",
+		"lines": [
+			"인천선"
+		],
+		"latitude": 37.434935,
+		"longitude": 126.698579,
+		"around_stations": [
+			"선학",
+			"인천터미널"
+		]
+	},
+	{
+		"name": "선학",
+		"lines": [
+			"인천선"
+		],
+		"latitude": 37.426684,
+		"longitude": 126.698863,
+		"around_stations": [
+			"신연수",
+			"문학경기장"
+		]
+	},
+	{
+		"name": "신연수",
+		"lines": [
+			"인천선"
+		],
+		"latitude": 37.41804,
+		"longitude": 126.693863,
+		"around_stations": [
+			"원인재",
+			"선학"
+		]
+	},
+	{
+		"name": "동춘",
+		"lines": [
+			"인천선"
+		],
+		"latitude": 37.404737,
+		"longitude": 126.681015,
+		"around_stations": [
+			"동막",
+			"원인재"
+		]
+	},
+	{
+		"name": "동막",
+		"lines": [
+			"인천선"
+		],
+		"latitude": 37.397878,
+		"longitude": 126.674005,
+		"around_stations": [
+			"캠퍼스타운",
+			"동춘"
+		]
+	},
+	{
+		"name": "캠퍼스타운",
+		"lines": [
+			"인천선"
+		],
+		"latitude": 37.387855,
+		"longitude": 126.661673,
+		"around_stations": [
+			"테크노파크",
+			"동막"
+		]
+	},
+	{
+		"name": "테크노파크",
+		"lines": [
+			"인천선"
+		],
+		"latitude": 37.382268,
+		"longitude": 126.656365,
+		"around_stations": [
+			"지식정보단지",
+			"캠퍼스타운"
+		]
+	},
+	{
+		"name": "지식정보단지",
+		"lines": [
+			"인천선"
+		],
+		"latitude": 37.378384,
+		"longitude": 126.645168,
+		"around_stations": [
+			"인천대입구",
+			"테크노파크"
+		]
+	},
+	{
+		"name": "인천대입구",
+		"lines": [
+			"인천선"
+		],
+		"latitude": 37.386007,
+		"longitude": 126.639484,
+		"around_stations": [
+			"센트럴파크",
+			"지식정보단지"
+		]
+	},
+	{
+		"name": "센트럴파크",
+		"lines": [
+			"인천선"
+		],
+		"latitude": 37.393054,
+		"longitude": 126.634729,
+		"around_stations": [
+			"국제업무지구",
+			"인천대입구"
+		]
+	},
+	{
+		"name": "국제업무지구",
+		"lines": [
+			"인천선"
+		],
+		"latitude": 37.399907,
+		"longitude": 126.630347,
+		"around_stations": [
+			"송도달빛축제공원",
+			"센트럴파크"
+		]
+	},
+	{
+		"name": "간석오거리",
+		"lines": [
+			"인천선"
+		],
+		"latitude": 37.467048,
+		"longitude": 126.707938,
+		"around_stations": [
+			"인천시청",
+			"부평삼거리"
+		]
+	},
+	{
+		"name": "송도달빛축제공원",
+		"lines": [
+			"인천선"
+		],
+		"latitude": 37.40690256416464,
+		"longitude": 126.62599088848317,
+		"around_stations": [
+			"국제업무지구"
+		]
+	},
+	{
+		"name": "사리",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.29062095298378,
+		"longitude": 126.85709658864381,
+		"around_stations": [
+			"한대앞",
+			"야목"
+		]
+	},
+	{
+		"name": "야목",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.26139114625711,
+		"longitude": 126.88378190254757,
+		"around_stations": [
+			"사리",
+			"어천"
+		]
+	},
+	{
+		"name": "어천",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.25008693721142,
+		"longitude": 126.90878536249919,
+		"around_stations": [
+			"야목",
+			"오목천"
+		]
+	},
+	{
+		"name": "오목천",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.24335646829219,
+		"longitude": 126.96386677176771,
+		"around_stations": [
+			"어천",
+			"고색"
+		]
+	},
+	{
+		"name": "고색",
+		"lines": [
+			"수인분당선"
+		],
+		"latitude": 37.24978483062486,
+		"longitude": 126.98053419002909,
+		"around_stations": [
+			"오목천",
+			"수원"
+		]
+	},
+	{
+		"name": "장기주차장",
+		"lines": [
+			"자기부상철도"
+		],
+		"latitude": 37.443916279157115,
+		"longitude": 126.45557721439164,
+		"around_stations": [
+			"인천공항1터미널",
+			"합동청사"
+		]
+	},
+	{
+		"name": "합동청사",
+		"lines": [
+			"자기부상철도"
+		],
+		"latitude": 37.4413522,
+		"longitude": 126.4575236,
+		"around_stations": [
+			"장기주차장",
+			"파라다이스시티"
+		]
+	},
+	{
+		"name": "파라다이스시티",
+		"lines": [
+			"자기부상철도"
+		],
+		"latitude": 37.4379539,
+		"longitude": 126.4580952,
+		"around_stations": [
+			"합동청사",
+			"워터파크"
+		]
+	},
+	{
+		"name": "워터파크",
+		"lines": [
+			"자기부상철도"
+		],
+		"latitude": 37.429221,
+		"longitude": 126.434231,
+		"around_stations": [
+			"파라다이스시티",
+			"용유"
+		]
+	},
+	{
+		"name": "용유",
+		"lines": [
+			"자기부상철도"
+		],
+		"latitude": 37.424832,
+		"longitude": 126.423652,
+		"around_stations": [
+			"워터파크"
+		]
+	}
+]
