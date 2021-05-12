@@ -16,6 +16,9 @@ class CapitalStationTestCase(unittest.TestCase):
 		pass
 
 	def test_station_connection(self):
+		"""
+		역간 양방향성 연결 검증
+		"""
 		for name, station in self.station_dict.items():
 			for name_i in station['around_stations']:
 				station_i = self.station_dict[name_i]
