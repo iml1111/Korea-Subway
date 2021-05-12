@@ -15,7 +15,7 @@ Korea subway location and connection information <br>
 
 현재까지 구현된 지역은 다음과 같습니다.
 
-- 수도권: 2021.05.12 업데이트
+- **수도권: 2021.05.12 업데이트**
 
 
 
