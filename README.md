@@ -46,15 +46,6 @@ with open(FILE_PATH, "r", encoding='UTF-8-sig') as f:
 ```
 
 
-
-
-
-## Contributing
-
-
-
-
-
 ## 도움을 주신 분들
 
 - [@NB](https://github.com/altmshfkgudtjr)
